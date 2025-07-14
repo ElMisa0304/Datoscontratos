@@ -130,7 +130,7 @@
                 "equipo": "SISTEMA DE VACIO",
                 "serie": "MP-1315",
                 "marca": "INDUSTRONIC",
-                "inventario": "ADOHIC008                ADOHIC009                ADOHIC010                         ADOHIC011                 ADOHIC012          "
+                "inventario": "ADOHIC008 \n ADOHIC009 \n ADOHIC010 \n ADOHIC011 \n ADOHIC012          "
             },
             "18": {
                 "unidad": "HOSPITAL INTEGRAL COACALCO",
