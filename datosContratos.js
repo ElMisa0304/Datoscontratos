@@ -6,7 +6,7 @@
 			"equipo": "Equipo 1 ",
 			"serie": "111",
 			"marca": "22",
-			"inventario": "11125dd"},
+			"inventario": "11125dd"}
 		}
 	}
 	"ISEM-CS-025-2025": {
