@@ -130,7 +130,7 @@
                 "equipo": "SISTEMA DE VACIO",
                 "serie": "MP-1315",
                 "marca": "INDUSTRONIC",
-                "inventario": "ADOHIC008 \n ADOHIC009 \n ADOHIC010 \n ADOHIC011 \n ADOHIC012          "
+                "inventario": "ADOHIC008 \nADOHIC009 \nADOHIC010 \nADOHIC011 \nADOHIC012          "
             },
             "18": {
                 "unidad": "HOSPITAL INTEGRAL COACALCO",
@@ -165,14 +165,14 @@
                 "equipo": "SISTEMA DE AIRE GRADO MEDICO",
                 "serie": "W125MX",
                 "marca": "AIRGMED",
-                "inventario": "ADOHIC025                ADOHIC026                ADOHIC027              ADOHIC028             ADOHIC029 "
+                "inventario": "ADOHIC025\nADOHIC026\nADOHIC027\nADOHIC028\nADOHIC029 "
             },
             "23": {
                 "unidad": "HOSPITAL INTEGRAL COACALCO",
                 "equipo": "SISTEMA DE SUBESTACION ELECTRICA",
                 "serie": "FE-A61-N3R-23KV",
                 "marca": "FORUNO",
-                "inventario": "ADOHIC030                ADOHIC031                ADOHIC032 "
+                "inventario": "ADOHIC030\nADOHIC031\nADOHIC032 "
             },
             "24": {
                 "unidad": "BANCO DE SANGRE REGIONAL ECATEPEC LAS AMERICAS",
