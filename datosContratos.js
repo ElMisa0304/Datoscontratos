@@ -1,4 +1,14 @@
 {
+	"ISEM-CS-RF-40-2024":{
+		"folios":{
+		"1":{
+			"unidad": "Unidad 1",
+			"equipo": "Equipo 1 ",
+			"serie": "111",
+			"marca": "22",
+			"inventario": "11125dd"},
+		}
+	}
 	"ISEM-CS-025-2025": {
 		"folios": {
 		"1": {
