@@ -8,7 +8,8 @@
 			"marca": "22",
 			"inventario": "11125dd"}
 		}
-	}
+	}}
+{
 	"ISEM-CS-025-2025": {
 		"folios": {
 		"1": {
