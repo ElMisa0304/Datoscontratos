@@ -1,8 +1,15 @@
 {
     "N/A": {
         "folios":{
-            "0":{}
-                 }
+            "99990":{
+                "equipo": "---",
+                "marca": "---",
+                "modelo": "---",
+                "serie": "---",
+                "inventario": "---",
+                "unidad": "---"
+            }
+        }
     },
     "ISEM": {
         "folios": {
