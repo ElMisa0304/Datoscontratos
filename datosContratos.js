@@ -21,13 +21,6 @@
                 "serie": "---",
                 "marca": "---",
                 "inventario": "---"
-            },
-            "4": {
-                "unidad": "---",
-                "equipo": "---",
-                "serie": "---",
-                "marca": "---",
-                "inventario": "---"
             }
         }
     },
