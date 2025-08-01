@@ -17,7 +17,7 @@
             }
         }
     },
-    "ISEM-CS-062-2025": {
+    "ISEM-CS-062-2025": { 
         "folios": {
             "1": {
                 "equipo": "REFRIGERADOR",
