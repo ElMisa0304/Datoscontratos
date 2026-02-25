@@ -2,11 +2,11 @@
     "ISSEMYM": {
         "folios": {
             "1.1": {
-                "unidad": "---",
-                "equipo": "---",
+                "unidad": "CENTRO MEDICO",
+                "equipo": "UMA",
                 "serie": "---",
                 "marca": "---",
-                "inventario": "---"
+                "inventario": "121WE3"
             },
             "2": {
                 "unidad": "---",
