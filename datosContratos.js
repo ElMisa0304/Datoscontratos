@@ -39,7 +39,7 @@
               "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
               "equipo": "VE-9 TIPO HONGO, MCA. LOREN COOK, MOD. 195ACEB, CAP. 5140 CFM"
               },
-              "1.1":{
+              "1.10":{
               "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
               "equipo": "VE-10 TIPO HONGO, MCA. LOREN COOK, MOD. 70ACEB, CAP. 260 CFM"
               },
