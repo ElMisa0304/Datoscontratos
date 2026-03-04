@@ -3282,8 +3282,334 @@
             "1.01":{
             "unidad": "CENTRO MEDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
             "equipo": "REVISIÓN DE FUNCIONAMIENTO PARA TOMAS DE GASES MEDICINALES 1200 TOMAS"
+            },
+            "2.01":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "SISTEMA DE MONITOREO DE GASES MEDICINALES (ALERTA, ALARMA DE GASES) TABLEROS OXIGENO, AIRE Y VACIO; MARCA AMICO, 25 MODULOS"
+            },
+            "2.02":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE VACÍO 263 TOMAS"
+            },
+            "2.03":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE OXIGENO, 263 TOMAS"
+            },
+            "2.04":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE AIRE MEDICINAL, 263 TOMAS"
+            },
+            "2.05":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TOMAS MEDICINALES PARA EL AREA DE HEMODIALISIS (15 TOMAS)"
+            },
+            "3.01":{
+            "unidad": "HOSPITAL MATERNO INFANTIL ", 
+            "equipo": "COMPRESOR DE AIRE GRADO MEDICO CUADRUPLEX CON MOTORES DE 10 HP, CAP. 1600L. ALMACENAMIENTO MARCA MEDICAL MODELO SRM1600 NO. DE SERIE 4185990387 UBICACIÓN CASA DE MAQUINA NO. INVENTARIO UNIDAD MEDICA"
+            },
+            "3.02":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "BOMBAS DE VACIO DUPLEX MOTORES DE. 7.5 HP LIBRE DE ACEITE, CAP. 482 L ALMACENAMIENTO MEDICAL MEDICAL SRM1600 02H17T2905GME 4185990387 S/N CASA DE MAQUINA COBERTIZO AZOTEA UNIDAD MEDICA UNIDAD MEDICA"
+            },
+            "3.03":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "BOMBA DE VACIO LIBRE DE ACEITE DUPLEX MEDICAL CIC MEDICAL 02H17T2905GME CICVD0754 S/N 9350459133 COBERTIZO AZOTEA AZOTEA GINECO / PUERPERIO UNIDAD MEDICA SIN INVENTARIO"
+            },
+            "3.04":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "COMPESOR CUADRUPLEX GRADO MÉDICO CIC MEDICAL CIC MEDICAL CICVD0754 CICBC1509 9350459133 8248296339 AZOTEA GINECO / PUERPERIO AZOTEA GINECO / PUERPERIO SIN INVENTARIO SIN INVENTARIO"
+            },
+            "4.01":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE OXÍGENO MARCA INFRAMEDICA, INCLUYE 55 KITS POR SERVICIO MOD. 5GMD, SERIE 502 "
+            },
+            "4.02":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE AIRE MEDICINAL MARCA INFRAMEDICA, INCLUYE 46 KITS POR SERVICIO MOD. 5GMD, SERIE 503"
+            },
+            "4.03":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE VACIO MARCA INFRAMEDICA, INCLUYE 55 KITS POR SERVICIO MOD. 5GMD, SERIE 504"
+            },
+            "4.04":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "CENTRALES DE ALARMAS AUDIOVISUALES MARCA. TECNO, MODELO SAV-4G"
+            },
+            "4.05":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "MANIFULD DE OXIGENO MCA AMICO."
+            },
+            "5.01":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO DE TOMAS DE OXÍGENO MEDICINAL MARCA BEACON MEDICAL(15 TOMAS) "
+            },
+            "5.02":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE AIRE MEDICINAL MARCA BEACON MEDICAL(15 TOMAS)"
+            },
+            "5.03":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE AIRE MARCA INFRA, (20 TOMAS), UBICADAS EN AREA DE HOSPITALIZACOIN"
+            },
+            "5.04":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE OXIGENO MARCA INFRA, (20 TOMAS), UBICADAS EN AREA DE HOSPITALIZACOIN"
+            },
+            "5.05":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "MANIFOLD 5X5, MARCA GENESYS, MODELO CCU120X1L0000B, SERIE 20031222A, UBICADO EN PATIO"
+            },
+            "6.01":{
+            "unidad": "HOSPITAL REGIONAL NEZAHUALCOYOTL ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMA DE AIRE MARCAS (ARAMED, ARIGMED Y AGA),  PARA TOMAS (86 TOMAS)"
+            },
+            "6.02":{
+            "unidad": "HOSPITAL REGIONAL NEZAHUALCOYOTL ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMA DE OXIGENO MARCAS (ARAMED, ARIGMED Y AGA) PARA TOMAS (86 TOMAS)"
+            },
+            "6.03":{
+            "unidad": "HOSPITAL REGIONAL NEZAHUALCOYOTL ", 
+            "equipo": "MANIFOLD, MARCA WESTERN, MODELO FHM2-9-10, SERIE 27910"
+            },
+            "7.01":{
+            "unidad": "HOSPITAL REGIONAL TEXCOCO ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE AIRE, MARCA INFRA, PARA TOMAS (40 TOMAS)"
+            },
+            "7.02":{
+            "unidad": "HOSPITAL REGIONAL TEXCOCO ", 
+            "equipo": "REVISIÓN DE FUNCIONAMIENTO PARA TOMAS DE OXIGENO MARCA INFRA, PARA TOMAS (40 TOMAS)"
+            },
+            "8.05":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE CHALCO SOLIDARIDAD ", 
+            "equipo": "MANIFULD P/OXIGENO DE 5X5, VALVULAS MODELO CGA540"
+            },
+            "9.01":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE BRAVO \"NICOLAS BRAVO BICENTENARIO\" ", 
+            "equipo": "BOMBAS DE VACIO MEDICINAL MARCA SIESA, SERIE 0902131"
+            },
+            "9.02":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE BRAVO \"NICOLAS BRAVO BICENTENARIO\" ", 
+            "equipo": "COMPRESOR DE AIRE MEDICO DUPLEX MARCA POWEREX CON 2 SECADORES."
+            },
+            "10.01":{
+            "unidad": "HOSPITAL REGIONAL ATLACOMULCO ", 
+            "equipo": "TOMAS DE OXIGENO INCLUYE: 41 KITS POR SERVICIO "
+            },
+            "10.02":{
+            "unidad": "HOSPITAL REGIONAL ATLACOMULCO ", 
+            "equipo": "TOMAS DE AIRE INCLUYE: 41 KITS POR SERVICIO "
+            },
+            "11.02":{
+            "unidad": "HOSPITAL REGIONAL TENANCINGO ", 
+            "equipo": "COMPRESOR GRADO MEDICO "
+            },
+            "11.03":{
+            "unidad": "HOSPITAL REGIONAL TENANCINGO ", 
+            "equipo": "SISTEMA MANIFULD PARA OXIGENO "
+            },
+            "12.01":{
+            "unidad": "HOSPITAL REGIONAL TEJUPILCO ", 
+            "equipo": "MANIFOLD, MARCA AMICO, MODELO P-M2H-C3DS-OXY, SERIE 20130516-B, CAPACIDAD 6X6 (36 CILINDROS DE 805 M2), UBICACIÓN CENTRAL DE GASES"
+            },
+            "12.02":{
+            "unidad": "HOSPITAL REGIONAL TEJUPILCO ", 
+            "equipo": "CENTRAL DE AIRE GRADO MEDICO DUPLEX , MODELO RFS2530"
+            },
+            "12.03":{
+            "unidad": "HOSPITAL REGIONAL TEJUPILCO ", 
+            "equipo": "CENTRAL DE VACIO DUPLEX, MODELO GLX2583"
+            },
+            "13.01":{
+            "unidad": "CLÍNICA REGIONAL SANTIAGO TIANGUISTENCO ", 
+            "equipo": "COMPRESOR DE AIRE GRADO MEDICINAL MARCA ITSA, MODELO I-717B-M, SERIE B77233J-88"
+            },
+            "13.02":{
+            "unidad": "CLÍNICA REGIONAL SANTIAGO TIANGUISTENCO ", 
+            "equipo": "SISTEMA MANIFULD PARA OXIGENO MARCA AMICO."
+            },
+            "14.01":{
+            "unidad": "CLÍNICA REGIONAL CUAUTITLÁN IZCALLI ", 
+            "equipo": "COMPRESOR DE AIRE 3 HP, MARCA EVANS 108 LITROS, MODELO E150ME300-108, SERIE: 795577009951, CON MOTOR MARCA: WEG, MODELO: MSL1J "
+            },
+            "14.04":{
+            "unidad": "CLÍNICA REGIONAL CUAUTITLÁN IZCALLI ", 
+            "equipo": "COMPRESOR DE AIRE, MARCA COLEMAN, MODELO BP0502013 BLACK MAX, CON MOTOR MARCA MAGNETEK, SERIE: 194194-01"
+            },
+            "14.05":{
+            "unidad": "CLÍNICA REGIONAL CUAUTITLÁN IZCALLI ", 
+            "equipo": "MANIFUL DE 3000 PSI 4 CILINDROS, MARCA AMICO, MODELO M2HD-D-HH-S-OXY, SERIE 20060307-C-A"
+            },
+            "15.01":{
+            "unidad": "CLÍNICA REGIONAL AMECAMECA ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE OXIGENO MARCA: SEISA, UBICADAS EN OBSERVACION HOSPITALARIA, URGENCIAS Y TOCOLOGIA (11 TOMAS)"
+            },
+            "15.02":{
+            "unidad": "CLÍNICA REGIONAL AMECAMECA ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE AIRE MARCA: SEISA, UBICADAS EN OBSERVACION HOSPITALARIA, URGENCIAS Y TOCOLOGIA (22 TOMAS)"
+            },
+            "16.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA CHALCO ", 
+            "equipo": "COMPRESOR PARA DENTAL CON MOTOR MODELO MT-666, SERIE 11K12506"
+            },
+            "17.01":{
+            "unidad": "CLÍNICA REGIONAL ALMOLOYA DE ALQUISIRAS ", 
+            "equipo": "COMPRESOR AA, MODELO LT500, SERIE 19507, INV. 22430"
+            },
+            "17.02":{
+            "unidad": "CLÍNICA REGIONAL ALMOLOYA DE ALQUISIRAS ", 
+            "equipo": "MANIFOLD DE O2,2X4 REGULADOR .MARCA WESTERN. S/N MODELO, INV. 3"
+            },
+            "17.03":{
+            "unidad": "CLÍNICA REGIONAL ALMOLOYA DE ALQUISIRAS ", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE OXIGENO"
+            },
+            "18.01":{
+            "unidad": "CLÍNICA REGIONAL IXTAPAN DE LA SAL ", 
+            "equipo": "COMPRESOR MARCA SPEED AIR, MODELO 4B233E (AGM06),  SERIE GMW, INV. 10090353"
+            },
+            "18.02":{
+            "unidad": "CLÍNICA REGIONAL IXTAPAN DE LA SAL ", 
+            "equipo": "MANIFOLDS DIGITAL MARCA AMICO, MODELO M2HD-D-HH-S-OXY, SERIE 20070918-1A"
+            },
+            "19.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VÉLEZ\"", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE AIRE, 3 TOMAS"
+            },
+            "19.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VÉLEZ\"", 
+            "equipo": "REVISION DE FUNCIONAMIENTO PARA TOMAS DE OXIGENO, (3 TOMAS)"
+            },
+            "19.03":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VÉLEZ\"", 
+            "equipo": "COMPRESOR DE AIRE GRADO MEDICINAL MARCA ARIGMED "
+            },
+            "20.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA LOS REYES LA PAZ ", 
+            "equipo": "COMPRESOR DE AIRE MARCA TASK FORCE, MODELO S/M, SERIE: 0190167"
+            },
+            "20.02":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA LOS REYES LA PAZ ", 
+            "equipo": "COMPRESOR DE AIRE MARCA: TOOLCRAFT PERFORMANCE, MODELO: TC2045"
+            },
+            "21.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA COACALCO ", 
+            "equipo": "COMPRESOR PARA DENTAL, MARCA: CARROLL, CON DOS MOTORES, MODELO: 550-4"
+            },
+            "22.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA OZUMBA ", 
+            "equipo": "COMPRESOR PARA DENTAL, MARCA SPARK, MODELO SP94002, SERIE SP940020110"
+            },
+            "23.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA NICOLAS ROMERO ", 
+            "equipo": "COMPRESOR DE AIRE PARA DENTAL . MARCA: REMAC-DENT"
+            },
+            "23.02":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA NICOLAS ROMERO ", 
+            "equipo": "COMPRESOR DE AIRE PARA DENTAL. MARCA: SMARTIIK, MODELO: 2021702000 CAPACIDAD 1.5 HP  No DE SERIE G10120407955."
+            },
+            "24.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA VALLE DE BRAVO ", 
+            "equipo": "COMPRESOR DE AIRE MCA. ITSA, MOD. I-200, No. SERIE 21195-C82"
+            },
+            "25.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ODONTOLOGICA MORELOS ", 
+            "equipo": "COMPRESOR DE AIRE TATSA SIEMENS, MOD. 1000, SERIE 21195-C82 NO. DE INV. 1140744"
+            },
+            "25.02":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ODONTOLOGICA MORELOS ", 
+            "equipo": "BOMBA DE VACIO DENTAL-7, MOD. DENTALZP1296, SERIE 26175"
+            },
+            "26.01":{
+            "unidad": "ESTANCIA INFANTIL  \"MARGARITA  MAZA DE JUAREZ\"", 
+            "equipo": "COMPRESOR DE AIRE , MARCA LINSA , MODELO 486826, INV 32868."
+            },
+            "27.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA TULTITLÀN ", 
+            "equipo": "COMPRESOR DE AIRE MCA. POWERMATE 20 GALONES, 155 MAX PSI"
+            },
+            "28.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ATIZAPAN DE ZARAGOZA ", 
+            "equipo": "COMPRESOR DE AIRE MARCA: KERN, SERIE: 1336, CON MOTOR MARCA: SIEMENS: 1RF3 054-4YC49"
+            },
+            "29.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA HUIXQUILUCAN ", 
+            "equipo": "COMPRESOR DE AIRE DENTAL, MARCA POWERMATE, CON MOTOR MODELO SGW550HD, SERIE 13094287"
+            },
+            "30.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ECATEPEC CENTRO ", 
+            "equipo": "COMPRESOR PARA DENTAL, MARCA INDUSTRIAL GUILLERMO MURGUIA S.A., MODELO B 321C0, SERIE H2 5390C "
+            },
+            "31.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA IXTAPALUCA ", 
+            "equipo": "COMPRESOR PARA DENTAL (1450 RPM), MARCA SMARTIIK, MODELO 2021702000, SERIE G10120203631"
+            },
+            "31.02":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA IXTAPALUCA ", 
+            "equipo": "COMPRESOR PARA DENTAL (45 LITROS, 1 HP), MARCA MILWAUKEE, MODELO MT-666, SERIE 10M61164"
+            },
+            "32.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA CHIMALHUACAN ", 
+            "equipo": "COMPRESOR PARA DENTAL, MARCA AIR VAC DENT, MODELO SGW750HD (DENTAL)"
+            },
+            "33.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA NAUCALPAN ", 
+            "equipo": "COMPRESOR 5 HP, MARCA KERN, SERIE 20445.2.222.87, UBICADO EN MANTENIMIENTO"
+            },
+            "33.02":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA NAUCALPAN ", 
+            "equipo": "COMPRESOR 1, 70 LITROS, 1 HP, MARCA EVANS, MODELO EL050ME100-070, UBICADO EN AREA DE COMPRESORES"
+            },
+            "33.03":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA NAUCALPAN ", 
+            "equipo": "COMPRESOR 2 150 PSI, MARCA PORTER CABLE, MODELO C5101, SERIE 2802035986, UBICADO EN AREA DE COMPRESORES"
+            },
+            "33.04":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA NAUCALPAN ", 
+            "equipo": "COMPRESOR 3 150 PSI, MARCA PORTER CABLE, MODELO C5101, SERIE 2802035601, UBICADO EN AREA DE COMPRESORES"
+            },
+            "33.05":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA NAUCALPAN ", 
+            "equipo": "COMPRESOR 4 150 PSI, MARCA PORTER CABLE, MODELO C5101, SERIE 2802035985, UBICADO EN AREA DE COMPRESORES"
+            },
+            "33.06":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA NAUCALPAN ", 
+            "equipo": "COMPRESOR ORTODONCIA 150 PSI, MARCA PORTER CABLE, MODELO C5101, SERIE 2802035728, UBICADO EN AREA DE JARDIN"
+            },
+            "33.07":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA NAUCALPAN ", 
+            "equipo": "COMPRESOR PARA DENTAL, MARCA KERN, MODELO RTZ246, SERIE 1092RMO, CON CABEZAL, MARCA KERN, MODELO RT3, SERIE 1092438, MOTOR MARCA WEG, MODELO 00518ET3EM184TW, UBICADO EN AREA DE JARDIN"
+            },
+            "34.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA VILLA VICTORIA ", 
+            "equipo": "COMPRESOR PARA DENTAL"
+            },
+            "35.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA SAN MARTÍN DE LAS PIRÁMIDES ", 
+            "equipo": "COMPRESOR PARA DENTAL"
+            },
+            "36.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ECATEPEC NORTE ", 
+            "equipo": "COMPRESOR EVANSCLO50-C16014068PARTE TRASERA DE CONSULTORIO 1 DE DENTAL"
+            },
+            "36.02":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ECATEPEC NORTE ", 
+            "equipo": "OMPRESOR SPRAYITSGW1500HDSP9402-0022PARTE TRASERA DE CONSULTORIO 2 DE DENTAL"
+            },
+            "37.01":{
+            "unidad": "ESTANCIA INFANTIL  \"ROSA MARIA SANCHEZ MENDOZA\"", 
+            "equipo": "COMPRESOR PARA DENTAL MCA S/M MOD S/M SERIE S/N (EQUIPO 1) "
             } 
           }
+        },
+        "3":{
+          "folios": {
+            "1.01":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "MOTOBOMBA 15 H.P. MCA TACO, MOD CE20072-5887, NO. SERIE CO2T4924M4"
+            }
+
+          }
         }
-}
-}}
+
+
+}}}
