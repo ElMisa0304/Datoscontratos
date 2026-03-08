@@ -5497,7 +5497,1015 @@
             "equipo": "PLANTA DE EMERGENCIA DE 140 KVA "
             }
           }
-        }
+        },
+        "5":{
+          "folios":{
+            "1.01":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "SUBESTACIÓN ELECTRICA RECEPTORA TIPO INTERIOR MARCA ELECTRO INGENIERIA MOD. NEMA - NO. SERIE 11671 "
+            },
+            "1.02":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "SUBESTACION DE DISTRIBUCION TIPO INTERIOR 20/23 KVA MARCA  ELECTROINGENIERIA MOD. NEMA-1 NO. SERIE 11672 "
+            },
+            "1.03":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TIPO TRIFASICO EN ACEITE DE 1500 KVA MARCA VOLTRAN MOD. TIPO OA CLASE 25 NO. SERIE 10756 "
+            },
+            "1.04":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TIPO TRIFASICO EN ACEITE DE 2000 KVA MARCA VOLTRAN MOD. TIPO OA CLASE 25 NO. SERIE 1075 "
+            },
+            "1.05":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "SISTEMA DE TIERRAS FISICAS MCA. CONDUZINC  "
+            },
+            "1.06":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLEROS DE DISTRIBUCION GENERAL DE BAJA TENSION DWPPON MOD. TIPOLVABHMCB, NEMA 1A 800 NO. DE SERIE 02066252234-1 "
+            },
+            "1.07":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLEROS DE DISTRIBUCION GENERAL DE BAJA TENSION DWPPON MOD. TIPOLVAB-HMCB, NAMA 1A800 NO. DE SERIE 02066252234-2"
+            },
+            "1.08":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLEROS DE DISTRIBUCION GENERAL DE BAJA TENSION DWPPON MOD. TIPO LVAB-VCB- NEM 1/A 2500 NO. DE SERIE 02066252234-3 "
+            },
+            "1.09":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-125 "
+            },
+            "1.10":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-126 "
+            },
+            "1.11":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-127 "
+            },
+            "1.12":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-128 "
+            },
+            "1.13":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-129 "
+            },
+            "1.14":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-130 "
+            },
+            "1.15":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-131 "
+            },
+            "1.16":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-132 "
+            },
+            "1.17":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-133 "
+            },
+            "1.18":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-134 "
+            },
+            "1.19":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-135 "
+            },
+            "1.20":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-136 "
+            },
+            "1.21":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-137 "
+            },
+            "1.22":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-138 "
+            },
+            "1.23":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-139 "
+            },
+            "1.24":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-140 "
+            },
+            "1.25":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-141 "
+            },
+            "1.26":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-142 "
+            },
+            "1.27":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-143 "
+            },
+            "1.28":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-144 "
+            },
+            "1.29":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-145 "
+            },
+            "1.30":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-146 "
+            },
+            "1.31":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-147 "
+            },
+            "1.32":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-148 "
+            },
+            "1.33":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-149 "
+            },
+            "1.34":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-150 "
+            },
+            "1.35":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO DE AISLAMIENTO DWPPON S/M SERIE 2539712-151 "
+            },
+            "1.36":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRSN-1 DE 75KVA 440/220 V CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-125A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.37":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRSN-2 DE 75KVA 440/220 V CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-250A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.38":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRSE-1 DE 225 KVA 440/220 V CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-400A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.39":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRSE-1 DE 225 KVA. 440/220 V. CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-400A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.40":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRSE-4 DE 45 KVA 440/220C CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-70A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.41":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRSTA-1 DE 150 KVA 440/220 CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-250A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.42":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRSTA-2 DE 75 KVA 440/220 V CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-150A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.43":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRSTRX-1 DE 75 KVA. 440/220V. CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-250A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.44":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRSTR-1 DE 225 KVA. 440/220V. CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-400A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.45":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRSTR-1 DE 112.5 KVA 440/220V CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-175A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.46":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TRANSFORMADOR TRALEX DE 45 KVA 440/220V CON TABLERO E INTERRUPTOR MARCA SIEMENS MOD. 3P-100A- NEMA 1 S/NO. DE SERIE "
+            },
+            "1.47":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO GE-2 SISTEMA DE EMERGENCIA MARCA DWPON, S/MOD. NO. DE SERIE 368369125  "
+            },
+            "1.48":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO GE-3 SUBESTACIÓN ELÉCTRICA PRINCIPAL MARCA DWPON, S/MOD. SERIE 368369126   "
+            },
+            "1.49":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGN-1 TIPO CDP SUBETS. DERIVADA MARCA DWPON, S/MOD. NO. DE SERIE 87521369 "
+            },
+            "1.50":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGN-2 TIPO CDP SUBEST DERIVADA MARCA DWPON, S/MOD., NO. SERIE 89632125 "
+            },
+            "1.51":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGN-3 TIPO CDP SUBESTACIÓN DERIVADA MARCA DWPON, S/MOD. NO. SERIE 36981258 "
+            },
+            "1.52":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGE-1 TIPO CDP SUBEST DERIVADA MARCA DWPON, S/MOD. S/NO. , NO.SERIE 23698521 "
+            },
+            "1.53":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGE-2 TIPO CDP SUBEST DERIVADA MARCA DWPON, S/MOD. NO. SERIE 63487215 "
+            },
+            "1.54":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGE-3 TIPO CDP SUBEST DERIVADA MARCA DWPON, S/MOD. NO. SERIE 89127836 "
+            },
+            "1.55":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGE-4 TIPO CDP SUBEST DERIVADA  MARCA DWPON, S/MOD. NO.SERIE 75236914 "
+            },
+            "1.56":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGTA-1 TIPO CDP SUBESTACIÓN DERIVADA MARCA DWPON, S/MOD. NO. SERIE 351426981 "
+            },
+            "1.57":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGTA-2 TIPO CDP SUBESTACIÓN DERIVADA MARCA DWPON, S/MOD. NO. SERIE 9257413 "
+            },
+            "1.58":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGTRX-1 TIPO CDP CIRCULACIÓN EQUIPO RODABLE MARCA DWPON, S/MOD. NO. SERIE 124596387 "
+            },
+            "1.59":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGTR-1 TIPO CDP SUBESTACIÓN DERIVADA MARCA DWPON, S/MOD. NO. DE SERIE 85127369 "
+            },
+            "1.60":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGTR-2 TIPO CDP SUBESTACIÓN DERIVADA MARCA DWPON, S/MOD. S/NO. DE SERIE "
+            },
+            "1.61":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO SGTR-3 TIPO CDP CASA DE MAQUINAS MARCA DWPON, S/MOD., NO. DE SERIE 428713981 "
+            },
+            "1.62":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "TABLERO ALEX TIPO CDP ALUMBRADO EXTERIOR MARCA DWPON, S/MOD.,NO. DE SERIE 358712694 "
+            },
+            "2.01":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "SUBESTACIÓN ELÉCTRICA CON CUATRO SECCIONADORES, MARCA SIEMENS MOD. TIPO-COMPACTO, INTERRUPTOR PRINCIPAL TG-1 "
+            },
+            "2.02":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR TN-4, MARCA ORION, SERIE 11656, 150 KVA "
+            },
+            "2.03":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR DE EMERGENCIA MARCA SELMEC, SERIE 12769, 1000 KVA "
+            },
+            "2.04":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR EN ACEITE, MARCA SELMEC, SERIE 891055, 750 KVA "
+            },
+            "2.05":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR TSGE-4, MARCA VOLTRAN, SERIE 12778, 30 KVA "
+            },
+            "2.06":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR CCMAA-2, MARCA VOLTRAN, SERIE 13078, 45 KVA "
+            },
+            "2.07":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR C TSGN-5, MARCA VOLTRAN, SERIE 13083, 225 KVA "
+            },
+            "2.08":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR CCMAA-2E, MARCA VOLTRAN, SERIE 13077, 30 KVA "
+            },
+            "2.09":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR CAFETERÍA, MARCA VOLTRAN, SERIE 13137, 30 KVA "
+            },
+            "2.10":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR BOMBEO, MARCA VOLTRAN, SERIE 13081, 75 KVA "
+            },
+            "2.11":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR CCM-2E, MARCA VOLTRAN, SERIE 13079, 75 KVA "
+            },
+            "2.12":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR SGN-X, MARCA VOLTRAN, SERIE12833, 50 KVA "
+            },
+            "2.13":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR LAVA CÓMODOS, MARCA VOLTRAN, SERIE12774, 112.5 KVA "
+            },
+            "2.14":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR RX-IMAG, MARCA VOLTRAN, SERIE12869, 112.5 KVA "
+            },
+            "2.15":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR RX, MARCA ORION, SERIE 11647, 75 KVA "
+            },
+            "2.16":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR TN-1, MARCA VOLTRAN, SERIE 11654, 112.5 KVA "
+            },
+            "2.17":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR TE-3, MARCA VOLTRAN, SERIE 12775, 112.5 KVA "
+            },
+            "2.18":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR  TN-4 TS-5N, MARCA VOLTRAN SERIE 12772, 150 KVA "
+            },
+            "2.19":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR TE-4 TS-5E, MARCA VOLTRAN, SERIE 12770, 225 KVA "
+            },
+            "2.20":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR TN-2, MARCA VOLTRAN, SERIE 11648, 75 KVA "
+            },
+            "2.21":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR TE-1 TSGE-3, MARCA VOLTRAN, SERIE 12776, 75 KVA "
+            },
+            "2.22":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR TS-1E, MARCA VOLTRAN, SERIE 12771, 225 KVA "
+            },
+            "2.23":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR TS-1N, MARCA VOLTRAN, SERIE 12773, 112.5 KVA "
+            },
+            "2.24":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR FZA 1, MARCA VOLTRAN, SERIE 13080, 65 KVA "
+            },
+            "2.25":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR DE PLANTA DE TRATAMIENTO, MARCA VOLTRAN,  SERIE 12777, 30 KVA "
+            },
+            "2.26":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR UGAR-3, MARCA VOLTRAN, SERIE 13310, 30 KVA "
+            },
+            "2.27":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "SUPRESOR DE PICOS MONOFÁSICO, MARCA LEVITON, MODELO  47120-7, SERIE TAB-TSG-1  "
+            },
+            "2.28":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "SUPRESOR DE PICOS MONOFÁSICO, MARCA LEVITON, MODODELO 47120-7, SERIE TAB-TSG-2"
+            },
+            "2.29":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "SUPRESOR DE PICOS TRIFÁSICO, MARCA LEVITON, MODELO 57120-M3S, SERIE 1449TVSS "
+            },
+            "2.30":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "SUPRESOR DE PICOS, MARCA LEVITON, MODELO 57277-M3S, SERIE 1449TVSS "
+            },
+            "2.31":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "INTERRUPTOR EXTRAIBLE DE 1600 AMP"
+            },
+            "2.32":{
+            "unidad": "CENTRO MEDICO ISSEMYM ECATEPEC ", 
+            "equipo": "TRANSFORMADOR ELECTRICO 1000 KVA. "
+            },
+            "3.01":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "SUBESTACIÓN ELÉCTRICA CON TRANSFORMADOR 23KV / 220V / 500KVA Y SECCIONADOR EN GRUPO MARCA DEEMSA MODELO SIN MODELO NO. DE SERIE S/N UBICACIÓN SUBESTACÓN 1 NO.INVENTARIO S/N"
+            },
+            "3.02":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO MODULAR CON 3 SECCIONADORES DE B.T. A 220 V DEEMSA SIEMENS SIN MODELO SIN MODELO S/N S/N SUBESTACÓN 1 SUBESTACIÓN 1S/N S/N"
+            },
+            "3.03":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE DOBLE SECCIONADOR PRIMARIO SIEMENS SIEMENS SIN MODELO SIN MODELO S/N S/N SUBESTACIÓN 1 COBERTIZO EQUIPO DE MEDICIÓN S/N S/N "
+            },
+            "3.04":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE EMERGENCIA SIEMENS SQUARE D SIN MODELO | LINE S/N S/N COBERTIZO EQUIPO DE MEDICIÓN SUBESTACIÓN 1 S/NS/N"
+            },
+            "3.05":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO ELECTRICO SQUARE D SQUARE DI LINET LINE S/N S/N SUBESTACIÓN 1 PASILLO GENERAL DE MANTENIMIENTO S/N SIN INVENTARIO"
+            },
+            "3.06":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO ELECTRICO SQUARE D SQUARE DI LINE I LINE S/N S/N PASILLO GENERAL DE MANTENIMIENTO PASILLO GENERAL DE MANTENIMIENTO SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.07":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE AISLAMIENTO SQUARE D POST GLOVER LIFE LINKI LINE S/M S/N S/N PASILLO GENERAL DE MANTENIMIENTO PASILLO QUIROFANOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.08":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE AISLAMIENTO POST GLOVER LIFE LINK POST GLOVER LIFE LINK 3KVA S/M S/M S/N S/N PASILLO QUIROFANOS PASILLO QUIROFANOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.09":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE AISLAMIENTO POST GLOVER LIFE LINK 3KVA POST GLOVER LIFE LINK S/M S/M S/N S/N PASILLO QUIROFANOS PASILLO QUIROFANOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.10":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE AISLAMIENTO POST GLOVER LIFE LINK POST GLOVER LIFE LINK S/M S/M S/N S/N PASILLO QUIROFANOS PASILLO QUIROFANOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.11":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE AISLAMIENTO RXP-1 POST GLOVER LIFE LINK POST GLOVER LIFE LINK 3KVA S/M S/M S/N S/N PASILLO QUIROFANOS PASILLO QUIROFANOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.12":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO ELECTRICO POST GLOVER LIFE LINK 3KVA SQUARE D S/MI LINE S/N S/N PASILLO QUIROFANOS ONCOLOGIA SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.13":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO ELECTRICO SQUARE D SQUARE DI LINE / LINE S/N S/N ONCOLOGIA ONCOLOGIA SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.14":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "PUNTAS PARARRAYOS, TIPO DIPOLO SQUARE D SIN MARCA | LINE SIN MODELO S/N S/N ONCOLOGIA CIRUGIA AMBULATORIA SIN INVENTARIO SIN INVENTARIO "
+            },
+            "3.15":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "PUNTAS PARARRAYOS, TIPO DE DIPOLO SIN MARCA SIN MARCA SIN MODELO SIN MODELO S/NS /N CIRUGIA CIRUGIA PEDIATRIA II SIN SIN SIN INVENTARIO"
+            },
+            "3.16":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": " PUNTAS PARARRAYOS, TIPO DE DIPOLO SIN MARCA SIN MARCA SIN MODELO SIN MODELO S/N'S /N PEDIATRIA II BANCO DE LECHE SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.17":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "PUNTAS PARARRAYOS, TIPO DIPOLO SIN MARCA SIN MARCA SIN MODELO SIN MODELO S/NS/N BANCO DE LECHE RECUPERACION QUIRURGICA SIN INVENTARIO SIN INVENTARIO "
+            },
+            "3.18":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "PUNTAS PARARRAYOS, TIPO DIPOLO SIN MARCA SIN MARCA SIN MODELO SIN MODELO S/ N S / N RECUPERACION QUIRURGICA CUPULA ESTRELLA SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.19":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "PUNTAS PARARRAYOS, TIPO DIPOLO SIN MARCA SIN MARCA SIN MODELO SIN MODELO S/NS/N CUPULA ESTRELLA PEDIATRIA II SIN INVENTARIO SIN INVENTARIO "
+            },
+            "3.20":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "PUNTAS PARARRAYOS, TIPO DIPOLO SIN MARCA SIN MARCA SIN MODELO SIN MODELO S/ NS/N PEDIATRIA II PUERPERIO SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.21":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "PUNTAS PARARRAYOS SIN MARCA SIN MARCA SIN MODELO SIN MODELO S/N S/ N PUERPERIO URGENCIAS PEDIATRICAS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.22":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "SECCIONADOR DE MEDIA TENSIÓN SIN MARCA ZETRAK SIN MODELO S/N S / N 1506 URGENCIAS PEDIATRICAS SUBESTACIÓN ELÉCTRICA DOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.23":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TRANSFORMADOR DE 750 KVA ZETRAK ZETRAK S/N S/N 1506 57408 SUBESTACIÓN ELÉCTRICA DOS SUBESTACIÓN ELÉCTRICA DOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.24":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN MEDIA TENSIÓN ZETRAK SQUARE D S/N PACT QD LOGIC 57108 L89707498 SUBESTACIÓN ELÉCTRICA DOS SUBESTACIÓN ELÉCTRICA DOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.25":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN MEDIA TENSIÓN SQUARE D SQUARE D PACT QD LOGIC PACT QD LOGIC L89707498 L90845519 SUBESTACIÓN ELÉCTRICA DOS SUBESTACIÓN ELÉCTRICA DOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.26":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE TRANSFERENCIA TT-03 SQUARE D ASCO PACT QD LOGIC S/N L90845519 2400949- ODIRE SUBESTACIÓN ELÉCTRICA DOS SUBESTACIÓN ELÉCTRICA DOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.27":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE TRANSFERENCIA TT-02 ASCO ASCO S/N S/N 2400949-001RE 2455683-007RE SUBESTACIÓN ELÉCTRICA DOS SUBESTACIÓN ELÉCTRICA DOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.28":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE TRANSFERENCIA TT-01 ASCO ASCO S/N S/N 2455683-007RE 2455683-003RE SUBESTACIÓN ELÉCTRICA DOS SUBESTACIÓN ELÉCTRICA DOS SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.29":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO ELECTRICO ASCO SQUARE D S/N S/N 2455683-003RE S/N SUBESTACIÓN ELÉCTRICA DOS NEONATOLOGIA SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.30":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE AISLAMIENTO SQUARE D POST GLOVER LIFE LINK 3K S/N S/N S/N S/N NEONATOLOGIA PASILLO SALAS DE EXPULSION SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.31":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE AISLAMIENTO  POST GLOVER LIFE LINK 3K POST GLOVER LIFE LINK 3K S/N S/N S/N S/N  PASILLO SALAS  EXPULSON PASILLO SALAS EXPULSON SIN INVENTARIO SIN INVENTARIO"
+            },
+            "3.32":{
+            "unidad": "HOSPITAL MATERNO INFANTIL. ", 
+            "equipo": "TABLERO DE AISLAMIENTO  POST GLOVER LIFE LINK 3K POST GLOVER LIFE LINK 3K S/N S/N S/N S/N  PASILLO SALAS  EXPULSON PASILLO SALAS EXPULSON SIN INVENTARIO SIN INVENTARIO"
+            },
+            "4.01":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "RECEPTORA PRINCIPAL INTERRUPTOR DERIVADO   MARCA FPOWER MO. NEMA 1 NO. DE SERIE 7L06301 R3801301        "
+            },
+            "4.02":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "CUCHILLA DE PASO Y APARTA RAYOS MARCA FPOWER MO. NEMA 1 NO. DE SERIE 253987412 "
+            },
+            "4.03":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "EQUIPO DE MEDICIÓN  MARCA FPOWER , SERIE 892365711 "
+            },
+            "4.04":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR ENCAPSULADO DE 1500 KVA MARCA VOLTRAN MOD. FACTOR K/13 NO. DE SERIE 12708 "
+            },
+            "4.05":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "INTERRUPTOR PRINCIPAL DE ACOPLAMIENTO A TRANSFORMADOR  FPOWER MOD. NEMA 1 NO. DE SERIE R4K01401 "
+            },
+            "4.06":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "INTERRUPTOR GENERAL MARCA SQUARE-D MOD. NEMA 1 NO. DE SERIE 4K01403 "
+            },
+            "4.07":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN GN1 MARCA SQUARE-D MOD. NEMA 1 NO. DE SERIE 4K01403 "
+            },
+            "4.08":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN GN2 MARCA SQUARE-D MOD. NEMA 1 NO. DE SERIE 4K01489 "
+            },
+            "4.09":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO 500KV  MARCA VTCWEST S.A DE C.V S/MOD. NO. DE SERIE 350500H504WXA234A "
+            },
+            "4.10":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "INTERRUPTOR PRINCIPAL  DE ACOPLAMIENTO A TRANSFORMADOR MARCA SQUARE-D MOD. NEMA 1 NO. DE SERIE R7A01901 "
+            },
+            "4.11":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "CUCHILLA DE PASO Y APARTA RAYOS MARCA SQUARE-D MOD. NEMA 1 NO. DE SERIE R7A01901 "
+            },
+            "4.12":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TABLERO DE TRANSFERENCIA MARCA SQUARE-D MOD. NEMA 1 NO. DE SERIE R7A01901 "
+            },
+            "4.13":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "INTERRUPTOR PRINCIPAL MARCA SQUARE-D MOD. NEMA 1 NO. DE SERIE 4K01405 "
+            },
+            "4.14":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "INTERRUPTORES PRINCIPALES MARCA SQUARE-D MOD. NEMA 1 NO. DE SERIE 4K01406 "
+            },
+            "4.15":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRA - SE - 3 MARCA SQUARE-D MOD. NEMA 1 NO. DE SERIE 4K01407 "
+            },
+            "4.16":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRSN - 1 MARCA SQUARE-D MOD. 45T135H NO. DE SERIE 3374921112-002 "
+            },
+            "4.17":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRSN - 2 MARCA SQUARE- D MOD. 150T 132H NO. DE SERIE 3514921112002 "
+            },
+            "4.18":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRSE - 1 MARCA SQUARE- D MOD. 75T132HNO. DE SERIEN 34349-21112 004 "
+            },
+            "4.19":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRSE - 2 MARCA SQUARE- D MOD. 112T132H NO. DE SERIE 3474921112 006"
+            },
+            "4.20":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRSTR MARCA SQUARE- D MOD. 45T132H NO. DE SERIE 337421112-002 "
+            },
+            "4.21":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRSE-4 MARCA SQUARE- D MOD. 30TI32H NO. DE SERIE 3334921120002 "
+            },
+            "4.22":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRSN-3 MARCA SQUARE- D MOD.  75TI32HNO. DE SERIE 3434921112-004 "
+            },
+            "4.23":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRSE-5 MARCA SQUARE- D MOD. 45TI32H NO. DE SERIE 3374921112-002 "
+            },
+            "4.24":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRSE-6 MARCA SQUARE- D MOD. 45TI32H NO. DE SERIE 3374921112-002 "
+            },
+            "4.25":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TRANSFORMADOR TIPO SECO TRSN-4 MARCA SQUARE- D MOD. 75TI32H  NO. DE SERIE 3434921112-007 "
+            },
+            "4.26":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TABLERO ( TA-1 )  MARCA SQUARE- D MOD. 7H5S31DD1 NO. DE SERIE 19964052-001 "
+            },
+            "4.27":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TABLERO ( 1 ) MARCA LIFE LINK S/MOD. NO. DE SERIE 85231 "
+            },
+            "4.28":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TABLERO (2 ) MARCA LIFE LINK S/MOD. NO. DE SERIE 2639 "
+            },
+            "4.29":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TABLERO ( TA-3 ) MARCA SQUARED MOD. 7H5S31DD1, SERIE 85236971 "
+            },
+            "4.30":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TABLERO ( TA-4 ) MARCA SQUARED MOD. 7H5S31DD1, SERIE 89632147 "
+            },
+            "4.31":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL  ", 
+            "equipo": "TABLERO ( TA-5 ) MARCA SQUARED MOD. 7H5S31DD1,SERIE 89521557 "
+            },
+            "5.01":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "SUBESTACIÓN DISTRIBUIDORA, MARCA SIEMENS, SERIE E11053.A.2, CON TRANSFORMADOR SECO TIPO \"AA\" 300 KVA, SERIE 2411, UBICADO EN CUARTO DE MAQUINAS INCLUYE: TABLERO DE CONTROL GE-1, MARCA SIEMENS, MODELO S-4, SERIE E11049A-2; TABLERO DE CONTROL PGEE, MARCA SIEMENS, MODELO FC1, SERIE E11055A-2; TABLERO DE CONTROL GE-2, MARCA SIEMENS; TABLERO GENERAL GN-1, MARCA SIEMENS, MODELO FC, SERIE E11050A-2"
+            },
+            "5.02":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "SUBESTACIÓN RECEPTORA, MARCA SIEMENS, MODELO COMPACTA N1, SERIE E11048.A.2, UBICACIÓN CUARTO DE MAQUINAS "
+            },
+            "5.03":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "TABLERO DE CONTROL GE-1, MARCA SIEMENS, MODELO S-4, SERIE E11049A-2, UBICADO EN CUARTO DE MAQUINAS "
+            },
+            "5.04":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "TABLERO DE CONTROL PGEE, MARCA SIEMENS, MODELO FC1, SERIE E11055A-2, UBICADO EN CUARTO DE MAQUINAS "
+            },
+            "5.05":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "TABLERO DE CONTROL GE-2, MARCA SIEMENS, UBICADO EN CUARTO DE MAQUINAS "
+            },
+            "5.06":{
+            "unidad": "HOSPITAL REGIONAL ZUMPANGO ", 
+            "equipo": "TABLERO GENERAL GN-1, MARCA SIEMENS, MODELO FC, SERIE E11050A-2, UBICADO EN CUARTO DE MAQUINAS "
+            },
+            "6.01":{
+            "unidad": "HOSPITAL REGIONAL NEZAHUALCÓYOTL ", 
+            "equipo": "TRANSFORMADOR DE 112.5 KVA, MARCA CONTINENTAL ELECTRIC, SERIE NF8734, CONSULTA EXTERNA"
+            },
+            "6.02":{
+            "unidad": "HOSPITAL REGIONAL NEZAHUALCÓYOTL ", 
+            "equipo": "TRANSFORMADOR DE 112.5 KVA, MARCA CONTINENTAL ELECTRIC, URGENCIAS "
+            },
+            "6.03":{
+            "unidad": "HOSPITAL REGIONAL NEZAHUALCÓYOTL ", 
+            "equipo": "SISTEMA DE TIERRAS FÍSICAS Y PARARRAYOS, 40 PUNTAS MARCA AMESA EN ÁREA DE HOSPITALIZACIÓN, 40 PUNTAS MARCA AMESA EN ÁREA DE CONSULTA EXTERNA Y BAJADAS A TIERRA "
+            },
+            "7.01":{
+            "unidad": "HOSPITAL REGIONAL TEXCOCO ", 
+            "equipo": "TRANSFORMADOR DE 300 KVA, MARCA TEGESA  "
+            },
+            "7.02":{
+            "unidad": "HOSPITAL REGIONAL TEXCOCO ", 
+            "equipo": "TABLERO I-LINE, MARCA SHNEIDER ELECTRICS MÉXICO, CATALOGO LA400M101A, 400 AMP "
+            },
+            "7.03":{
+            "unidad": "HOSPITAL REGIONAL TEXCOCO ", 
+            "equipo": "TABLERO I-LINE, MARCA SHNEIDER ELECTRICS MÉXICO, CATALOGO NA1200N203A, 1200 AMP "
+            },
+            "8.01":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE CHALCO SOLIDARIDAD ", 
+            "equipo": "TRANSFORMADOR DE 300 KVA MOD. N6-51002 "
+            },
+            "8.02":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE CHALCO SOLIDARIDAD ", 
+            "equipo": "TABLERO DE POTENCIA DE 1200 AMP, MARCA SQUARED, MODELO QDIBFDRB12 "
+            },
+            "9.01":{
+            "unidad": "HOSPITAL REGIONAL  VALLE DE BRAVO \"NICOLÁS BRAVO BICENTENARIO\" ", 
+            "equipo": "TRANSFORMADOR DISTRIBUIDOR DE LUZ MARCA AMBAR MOD. 51897 S/NO. DE SERIE "
+            },
+            "9.02":{
+            "unidad": "HOSPITAL REGIONAL  VALLE DE BRAVO \"NICOLÁS BRAVO BICENTENARIO\" ", 
+            "equipo": "GABINETE NEMA (CONTROL ELÉCTRICO) MARCA LOGIC MOD. ET-LOGIC NO. DE SERIE 8K12502 "
+            },
+            "9.03":{
+            "unidad": "HOSPITAL REGIONAL  VALLE DE BRAVO \"NICOLÁS BRAVO BICENTENARIO\" ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN QD-PAC LOGIC MARCA GN-1 S/MOD. S/NO. DE SERIE "
+            },
+            "9.04":{
+            "unidad": "HOSPITAL REGIONAL  VALLE DE BRAVO \"NICOLÁS BRAVO BICENTENARIO\" ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN QD-PACT LOGIC MARCA PGEE S/MOD. S/NO. DE SERIE "
+            },
+            "9.05":{
+            "unidad": "HOSPITAL REGIONAL  VALLE DE BRAVO \"NICOLÁS BRAVO BICENTENARIO\" ", 
+            "equipo": "TRANSFORMADOR TIPO SECO EN CAPSULA MARCA AMBAR NO. DE SERIE 51897 "
+            },
+            "9.06":{
+            "unidad": "HOSPITAL REGIONAL  VALLE DE BRAVO \"NICOLÁS BRAVO BICENTENARIO\" ", 
+            "equipo": "TABLERO BAJA TENSIÓN COMBO MARCA SCHEIR ELE MOD. AMBAR NO. DE SERIE 8K12501 "
+            },
+            "9.07":{
+            "unidad": "HOSPITAL REGIONAL  VALLE DE BRAVO \"NICOLÁS BRAVO BICENTENARIO\" ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN BAJA TENSIÓN MARCA SCHEIDER ELE MOD. AMBAR NO. DE SERIE 8K12502 "
+            },
+            "9.08":{
+            "unidad": "HOSPITAL REGIONAL  VALLE DE BRAVO \"NICOLÁS BRAVO BICENTENARIO\" ", 
+            "equipo": "TABLERO REGULADO, UBICADO EN QUIROFANO. "
+            },
+            "10.01":{
+            "unidad": "HOSPITAL REGIONAL ATLACOMULCO ", 
+            "equipo": "TRANSFORMADOR  DE ENERGÍA, 150 KVA,  AZOTEA,  INCLUYE TABLEROS GENERALES DE SERVICIO NORMAL Y EMERGENCIA (B.T.). NO. DE SERIE CA062/01 "
+            },
+            "11.01":{
+            "unidad": "HOSPITAL REGIONAL TENANCINGO ", 
+            "equipo": "SUBESTACIÓN  TRANSFORMADORA 23KV/220V60HZ MARCA AMBAR S/MOD. NO. DE SERIE 12670 "
+            },
+            "11.02":{
+            "unidad": "HOSPITAL REGIONAL TENANCINGO ", 
+            "equipo": "SUBESTACIÓN  RECEPTORA MARCA AMBAR S/MOD. NO. DE SERIE 12669 "
+            },
+            "12.01":{
+            "unidad": "HOSPITAL REGIONAL TEJUPILCO  ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN MARCA SQUARED MOD. COMBO NO. DE SERIE QDCF162XW "
+            },
+            "12.02":{
+            "unidad": "HOSPITAL REGIONAL TEJUPILCO  ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN MARCA SQUARED MOD. CUEDELOGIC NO. DE SERIE QDIDRB20X34 "
+            },
+            "12.03":{
+            "unidad": "HOSPITAL REGIONAL TEJUPILCO  ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN MARCA SQUARED MOD. CUEDELOGIC NO. DE SERIE QDIDRB20X32 "
+            },
+            "12.04":{
+            "unidad": "HOSPITAL REGIONAL TEJUPILCO  ", 
+            "equipo": "TABLERO DE DISTRIBUCIÓN MARCA SQUARED MOD. CUEDELOGIC NO. DE SERIE QDIDPB25X32 "
+            },
+            "13.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA JILOTEPEC ", 
+            "equipo": "SUBESTACIÓN ELÉCTRICA 150 KVA MARCA CONTINENTAL S/MOD. NO. DE SERIE 4004-5344 "
+            },
+            "14.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "SUBESTACIÓN DE DISTRIBUCIÓN COMPACTA COMPUESTA DE SECCIÓN DE MEDICIÓN, CUCHILLAS DE PASO, APARTARRAYOS, INTERRUPTOR DE AIRE Y TRANSFORMADOR  DE 23 KVA, INCLUYE TABLEROS GENERALES DE SERVICIO NORMAL Y EMERGENCIA (B.T.). "
+            },
+            "14.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO ATR, BAÑOS PERSONAL MARCA SQUARED MOD. MHC23S NO. DE SERIE E2 "
+            },
+            "14.03":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO E, BAÑOS PERSONAL. MARCA SQUARED MOD. MHC29S NO. DE SERIE E2 "
+            },
+            "14.04":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO A, BAÑOS PERSONAL. MARCA SQUARED MOD. MHC29S NO. DE SERIE E2 "
+            },
+            "14.05":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO D, BAÑOS PERSONAL.  MARCA SQUARED MOD. MHC44S NO. DE SERIE E2 "
+            },
+            "14.06":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO AA, LABORATORIO.  MARCA SQUARED MOD. MHC44S NO. DE SERIE E2 "
+            },
+            "14.07":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO C, ARCHIVO.  MARCA SQUARED MOD. MHC26F NO. DE SERIE E2 "
+            },
+            "14.08":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO CE, ARCHIVO.  MARCA SQUARED MOD. MHC26F NO. DE SERIE E2 "
+            },
+            "14.09":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO CTR, ARCHIVO.  MARCA SQUARED S/MOD.  NO. DE SERIE E2 "
+            },
+            "14.10":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO TGR, TELECOMUNICACIONES.  MARCA SQUARED MOD. MHC26S NO. DE SERIE E2 "
+            },
+            "14.11":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO BE, CURACIONES.  MARCA SQUARED MOD. MHC25F NO. DE SERIE E2 "
+            },
+            "14.12":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO ELÉCTRICO B, CURACIONES  MARCA SQUARED MOD. MHC29F NO. DE SERIE E2 "
+            },
+            "14.13":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "MEDIDOR DE LUZ PRINCIPAL, OBSERVACIONES 23KV.  MARCA SQUARED MOD. KL180 NO. DE SERIE 40A018 "
+            },
+            "14.14":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "PANEL  DE CONTROL,  OBS ALUMBRADO. MARCA SIEMENS S/MOD. S/NO. DE SERIE "
+            },
+            "14.15":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "TABLERO- E , LUZ  DE PERIFERIA  DE UNIDAD OBS 40AMP. MARCA SQUARED  MOD. MHC226S NO. DE SERIE E2 "
+            },
+            "15.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA HUIXQUILUCAN ", 
+            "equipo": "SUBESTACIÓN ELÉCTRICA 23 K, MARCA SIEMENS, MODELO COMPACTA, SERIE A&LV53753 "
+            },
+            "15.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA HUIXQUILUCAN ", 
+            "equipo": "TRANSFORMADOR ELÉCTRICO 300 KVA, MARCA SIEMENS "
+            },
+            "15.03":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA HUIXQUILUCAN ", 
+            "equipo": "SISTEMA DE PARARRAYOS QUE CONSTA DE 50 PUNTAS Y 8 BAJADAS, MARCA ANPASA "
+            },
+            "16.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA SAN MARTIN DE LAS PIRÁMIDES ", 
+            "equipo": "TRANSFORMADOR  TIPO POSTE DE 75 KVA MARCA CONTINENTAL, SERIE 487236911 "
+            },
+            "17.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA COACALCO ", 
+            "equipo": "SUBESTACIÓN ELÉCTRICA  400 AMP. MARCA: AMBAR, SERIE: 18690, INCLUYE: CENTROS DE CARGA MARCA: SQUARE D Y TABLERO DE CONTROL (2 TABLEROS) "
+            },
+            "17.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA COACALCO ", 
+            "equipo": "TRANSFORMADOR DE 300 KVA, MARCA TEGESA  "
+            },
+            "17.03":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA COACALCO ", 
+            "equipo": "SISTEMA DE PARARRAYOS, MARCA MATIMSA, (CON 70 PUNTAS Y 9 BAJADAS A REGISTRO DE TIERRA) "
+            },
+            "18.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA CHALCO ", 
+            "equipo": "SUBESTACIÓN ELÉCTRICA, MARCA ZETRAK, MODELO 25KV, SERIE SUB 596 "
+            },
+            "18.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA CHALCO ", 
+            "equipo": "TRANSFORMADORES DE 300 KVA, MARCA ZETRAK, MODELO PEDESTAL RADIAL "
+            },
+            "18.03":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA CHALCO ", 
+            "equipo": "TRANSFORMADOR 75 KVA, MARCA ZETRAK, TIPO SECO \"AA\" BAJA TENSIÓN, SERIE 16629 "
+            },
+            "18.04":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA CHALCO ", 
+            "equipo": "PARARRAYOS PDC MARCA SCHIRTEC MOD. SSA , SERIE 962157134, CON TRES DELTAS "
+            },
+            "19.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA ECATEPEC CENTRO ", 
+            "equipo": "SUBESTACIÓN ELÉCTRICA TIPO PEDESTAL DE 150 KVA, MARCA GENERAL ELECTRIC,  MODELO PROLEC, SERIE PJA 050-26-001, INCLUYE TABLERO GENERAL "
+            },
+            "20.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA OZUMBA ", 
+            "equipo": "TRANSFORMADOR TIPO POSTE, MARCA: CONTINENTAL ELÉCTRICA 23 KV, 30 KVA, 3F,+ TF , 220/127 VCA, SERIE 85236621 "
+            },
+            "20.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA OZUMBA ", 
+            "equipo": "TRANSFORMADOR 5 KVA, PARA COMPRESOR DENTAL, UBICADO EN PATIO EXTERIOR "
+            },
+            "20.03":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA OZUMBA ", 
+            "equipo": "PARARRAYOS DIPOLO-CORONA CON CABLE DE BAJADA A TIERRA DE 20 HILOS TRENASADO ESPECIAL PARA PARARRAYOS, TIERRA FÍSICA, CONEXIÓN DELTA CON VARILLA COPPERWELD 3 VARILLAS CONECTADAS ENTRE SI´CON CABLE DESNUDO CALIBRE 210 "
+            },
+            "21.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA LOS REYES LA PAZ ", 
+            "equipo": "TRANSFORMADOR TIPO POSTE DE 45 KVAS 220/127 VOLTS, MARCA CONTINENTAL ELECTRIC "
+            },
+            "22.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA SAN FELIPE DEL PROGRESO \"IGNACIO LOPEZ RAYON BICENTENARIO\"", 
+            "equipo": "TRANSFORMADOR MARCA CONTINENTAL MOD. ELECTRIC, SERIE 852361258  "
+            },
+            "23.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA VILLA GUERRERO ", 
+            "equipo": "TRANSFORMADOR MARCA CONTINENTAL MOD. ELECTRIC NO. DE SERIE 30KVA, SERIE 96853212 "
+            },
+            "24.01":{
+            "unidad": "CENTRO VACACIONAL TONATICO  ", 
+            "equipo": "SUBESTACIÓN DE DISTRIBUCIÓN  COMPACTA COMPUESTA DE  SECCIÓN DE MEDICIÓN, CUCHILLAS DE PASO , APARTARRAYOS, INTERRUPTOR  DE AIRE Y TRANSFORMADOR  DE 75 KVA , INCLUYE TABLEROS  GENERALES DE SERVICIO  NORMAL Y EMERGENCIA  (V.). SERIE 2332691-AS   "
+            },
+            "25.01":{
+            "unidad": "UNIDAD  DE ATENCIÓN AL DERECHOHABIENTE ECATEPEC ", 
+            "equipo": "SUBESTACIÓN ELÉCTRICA,  COMPUESTA DE EQUIPO DE MEDICIÓN  DE 23KVA, CUCHILLAS DE PASO ; APARTARRAYOS INTERRUPTOR. SERIE 95323971-GF "
+            },
+            "26.01":{
+            "unidad": "DEPARTAMENTO DE SERVICIOS  ", 
+            "equipo": "SUBESTACIÓN ELÉCTRICA DE 500 KVA MARCA ELMEX S/MOD. SERIE 531287416 "
+            },
+            "26.02":{
+            "unidad": "DEPARTAMENTO DE SERVICIOS  ", 
+            "equipo": "CENTRO DE CARGA GENERAL MARCA SQUARRED MOD. ML NO. DE SERIE 30071011 "
+            },
+            "26.03":{
+            "unidad": "DEPARTAMENTO DE SERVICIOS  ", 
+            "equipo": "SISTEMA DE TIERRA FÍSICA Y PARARRAYOS TG45K  "
+            },
+            "26.04":{
+            "unidad": "DEPARTAMENTO DE SERVICIOS  ", 
+            "equipo": "SISTEMA DE TIERRA FÍSICA Y PARARRAYOS TG45AB "
+            },
+            "27.01":{
+            "unidad": "CLÍNICA DE REHABILITACIÓN FÍSICA INTEGRAL ", 
+            "equipo": "SUBESTACIÓN DE DISTRIBUCIÓN, MARCA SELMEC, No. INV 2668-78, COMPUESTA DE: CUCHILLAS DE PASO, APARTARRAYOS , CORTACIRCUITOS, FUSIBLES DE POTENCIA Y TRANSFORMADOR DE ACEITE, DE 300 KVA´S, 24500-220-127V. INCLUYE TABLEROS GENERALES DE DISTRIBUCIÓN EN B.T. SERVICIO NORMAL Y DE EMERGENCIA, MARCA SQUARE D, DOS TABLEROS MODELOS LA 400M182A Y QDCF202MX.  MARCA SELMEC MOD. 2668-78 S/NO. DE SERIE "
+            },
+            "27.02":{
+            "unidad": "CLÍNICA DE REHABILITACIÓN FÍSICA INTEGRAL ", 
+            "equipo": "TRANSFORMADOR DE 80 KVA´S MARCA ARIAN S/MOD. NO. DE SERIE 5189 "
+            },
+            "27.03":{
+            "unidad": "CLÍNICA DE REHABILITACIÓN FÍSICA INTEGRAL ", 
+            "equipo": "TRANSFORMADOR DE 60 KVA´S MARCA SIEMENS S/MOD. NO. DE SERIE 832569702-02 "
+            },
+            "27.04":{
+            "unidad": "CLÍNICA DE REHABILITACIÓN FÍSICA INTEGRAL ", 
+            "equipo": "AUTOTRANSFORMADOR  DE 60/160 KVA´S ELECTRÓNICA ULTRASNIU S/MOD. NO. DE SERIE 80574 "
+            },
+            "27.05":{
+            "unidad": "CLÍNICA DE REHABILITACIÓN FÍSICA INTEGRAL ", 
+            "equipo": "TABLERO DE CONTROL DE MOTORES MARCA SQUARED MOD. RICO18-01 NO. DE SERIE 25825 "
+            },
+            "27.06":{
+            "unidad": "CLÍNICA DE REHABILITACIÓN FÍSICA INTEGRAL ", 
+            "equipo": "TABLERO DE RESPALDO MARCA SQUARED MOD. LA400M182A NO. SERIE 85231 "
+            },
+            "27.07":{
+            "unidad": "CLÍNICA DE REHABILITACIÓN FÍSICA INTEGRAL ", 
+            "equipo": "TABLERO DE POTENCIA ITM MERLÍN GERIN MARCA SQUARED MOD. QDCF202MX S/NO. DE SERIE "
+            },
+            "27.08":{
+            "unidad": "CLÍNICA DE REHABILITACIÓN FÍSICA INTEGRAL ", 
+            "equipo": "SISTEMAS DE TIERRAS FÍSICAS Y PARARRAYOS DE LA UNIDAD. S/MOD. SERIE 85127 "
+            },
+            "28.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA ODONTOLÓGICA MORELOS ", 
+            "equipo": "TRANSFORMADOR MCA. CONTINENTAL ELECTRIC DE 112,5 KVA. SERIE 361428712 "
+            },
+            "29.01":{
+            "unidad": "CENTRO DE PENSIONADOS \"EVA SÁMANO  DE LÓPEZ MATEOS\"", 
+            "equipo": "SUBESTACIÓN 75 KVA S/MARCA S/MOD.,  SERIE FP-1258713691 "
+            },
+            "29.02":{
+            "unidad": "CENTRO DE PENSIONADOS \"EVA SÁMANO  DE LÓPEZ MATEOS\"", 
+            "equipo": "CENTRO DE CARGA GENERAL S/MARCA S/MOD. SERIE 8523652362 "
+            },
+            "30.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VELEZ\" ", 
+            "equipo": "SUBESTACIÓN ELÉCTRICA  DE DISTRIBUCIÓN MCA ELMEX,COMPUESTA DE SECCIÓN  DE MEDICIÓN  CUCHILLAS DE PASO ,APARTARRAYOS ,INTERRUPTOR  EN AIRE, CON TRANSFORMADOR  EN ACEITE DE 225KVA 24500-220-127V; INCLUYE TABLEROS  GENERALES DE DISTRIBUCIÓN EN V. SERVICIO NORMAL MCA . FEDERAL PACIFIC. MOD. S/M,SERIE HC041 TABLERO DE EMERGENCIAS  MCA.FEDERAL  PACIFIC ,MOD S/M, SERIE HC040. "
+            },
+            "31.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA CHIMALHUACAN ", 
+            "equipo": "TRANSFORMADOR TIPO POSTE, INCLUYE: CENTRO DE CARGA "
+            },
+            "32.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA NICOLÁS ROMERO ", 
+            "equipo": "TRANSFORMADOR EN ACEITE TIPO PEDESTAL DE 45 KVA , MARCA: CONTINENTAL ELECTRIC, SERIE: 4003-103493 "
+            },
+            "33.01":{
+            "unidad": "CLÍNICA REGIONAL AMECAMECA ", 
+            "equipo": "TRANSFORMADOR 75 KVA, MARCA ITECSA, UBICADO EN PATIO DE ACCESO, INCLUYE: INTERRUPTOR PRINCIPAL 400 A, MARCA SQUARE D, MODELO LA400M141B, UBICADO EN PATIO DE ACCESO "
+            },
+            "34.01":{
+            "unidad": "UNIDAD  DE ATENCIÓN AL DERECHOHABIENTE TOLUCA ", 
+            "equipo": "TRANSFORMADOR TIPO ACEITE 500. KVA "
+            },
+            "34.02":{
+            "unidad": "UNIDAD  DE ATENCIÓN AL DERECHOHABIENTE TOLUCA ", 
+            "equipo": "TABLERO GE-3 SUBESTACIÓN ELÉCTRICA PRINCIPAL "
+            },
+            "34.03":{
+            "unidad": "UNIDAD  DE ATENCIÓN AL DERECHOHABIENTE TOLUCA ", 
+            "equipo": "TABLERO SGN-1 TIPO CDP SUBETS. DERIVADA  "
+            },
+            "34.04":{
+            "unidad": "UNIDAD  DE ATENCIÓN AL DERECHOHABIENTE TOLUCA ", 
+            "equipo": "TABLERO SGN-2 TIPO "
+            },
+            "34.05":{
+            "unidad": "UNIDAD  DE ATENCIÓN AL DERECHOHABIENTE TOLUCA ", 
+            "equipo": "TABLERO SGN-3  "
+            },
+            "34.06":{
+            "unidad": "UNIDAD  DE ATENCIÓN AL DERECHOHABIENTE TOLUCA ", 
+            "equipo": "TABLERO SGE-1 TIPO CDP "
+            },
+            "35.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA ECATEPEC NORTE", 
+            "equipo": "TRANSFORMADOR ELECTRICO 3000 KVA. "
+            },
+            "35.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA ECATEPEC NORTE", 
+            "equipo": "TRANSFORMADOR ELECTRICO 150 KVA. "
+            },
+            "36.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA TULTITLAN", 
+            "equipo": "TRANSFORMADOR DE 300KVA"
+            },
+            "37.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA ATIZAPAN DE ZARAGOZA", 
+            "equipo": "TRANSFORMADOR DE 300KVA MARCA ZETRAK"
+            }
 
+          }
+        }
 
 }}}
