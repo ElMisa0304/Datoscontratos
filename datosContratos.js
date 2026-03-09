@@ -6504,7 +6504,542 @@
             "unidad": "CLÍNICA DE CONSULTA EXTERNA ATIZAPAN DE ZARAGOZA", 
             "equipo": "TRANSFORMADOR DE 300KVA MARCA ZETRAK"
             }
-
+          }
+        },
+        "6":{
+          "folios":{
+            "1.01":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "ELEVADOR TRIPLEX, MARCA KONE, MOD CAMILLERO, SERIE 340818, UBICACIÓN VESTÍBULO PRINCIPAL"
+            },
+            "1.02":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "ELEVADOR TRIPLEX, MARCA KONE, MOD CAMILLERO, SERIE 340820, UBICACIÓN VESTÍBULO PRINCIPAL"
+            },
+            "1.03":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "ELEVADOR TRIPLEX, MARCA KONE, MOD CAMILLERO, SERIE 340822, UBICACIÓN VESTÍBULO PRINCIPAL"
+            },
+            "1.04":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "ELEVADOR DUPLEX, MARCA KONE, MOD CAMILLERO, SERIE 340849, UBICACIÓN SERVICIOS"
+            },
+            "1.05":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "ELEVADOR DUPLEX, MARCA KONE, MOD CAMILLERO, SERIE 340850, UBICACIÓN SERVICIOS"
+            },
+            "1.06":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "MONTACARGAS, MARCA KONE, MOD. MICROLEFT, UBICACIÓN ARCHIVO"
+            },
+            "2.01":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC", 
+            "equipo": "ELEVADOR A DE PERSONAL 20 PERSONAS/1500 KGS. VEL= 1 M/S, MCA. HISPANOMEX, MODELO 240171AWF, SERIE 04A06009/1, UBICACIÓN AZOTEA DEL TERCER PISO. "
+            },
+            "2.02":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC", 
+            "equipo": "ELEVADOR B DE PERSONAL 20 PERSONAS/1500 KGS. VEL= 1 M/S, MCA. HISPANOMEX, MODELO 24171AWF, SERIE 04A06007/1, UBICACIÓN AZOTEA DEL TERCER PISO."
+            },
+            "3.01":{
+            "unidad": "HOSPITAL MATERNO INFANTIL", 
+            "equipo": "ELEVADOR 1, CAP. 21 PASAJEROS QUANTUM VITALIUM S/N HOSPITALIZACION SIN INVENTARIO"
+            },
+            "3.02":{
+            "unidad": "HOSPITAL MATERNO INFANTIL", 
+            "equipo": "ELEVADOR 2, CAP. 21 PASAJEROS QUANTUM VITALIUM S/N HOSPITALIZACION SIN INVENTARIO"
+            },
+            "3.03":{
+            "unidad": "HOSPITAL MATERNO INFANTIL", 
+            "equipo": "ELEVADOR, CAP. 18 PASAJEROS KONE MONO SAPACE EQ-3671 CONSULTA EXTERNA SIN INVENTARIO"
+            },
+            "3.04":{
+            "unidad": "HOSPITAL MATERNO INFANTIL", 
+            "equipo": "ELEVADOR DE CARGA TECNO RAMPA TEC0548 156646 AREA DE CARGA Y DESCARGA SIN INVENTARIO"
+            },
+            "4.01":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL", 
+            "equipo": "ELEVADOR 4104 2005 CAP 21 PERSONAS 1600 KG, MARCA KONE"
+            },
+            "4.02":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL", 
+            "equipo": "ELEVADOR 4105 2005 CAP 21 PERSONAS 1600 KG, MARCA KONE, SERIE 823697125"
+            },
+            "4.03":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL", 
+            "equipo": "ELEVADOR 4106 2005 CAP 13 PERSONAS 1000 KG, MARCA KONE, MOD 4500886675/00530, SERIE 775289603"
+            },
+            "4.04":{
+            "unidad": "CENTRO ONCOLÓGICO ESTATAL", 
+            "equipo": "ELEVADOR 4108 2005 CAP 13 PERSONAS 1000 KG, MARCA KONE, MOD 2607876615/01712, SERIE 891236971"
+            },
+            "5.01":{
+            "unidad": "HOSPITAL REGIONAL TEXCOCO", 
+            "equipo": "ELEVADOR, CAPACIDAD 6 PERSONAS / 420 KGS, MARCA ATLAS, TIPO R 132 M2"
+            },
+            "5.02":{
+            "unidad": "HOSPITAL REGIONAL TEXCOCO", 
+            "equipo": "ELEVADOR DE SERVICIO, CAPACIDAD 8 PERSONAS / 630 KG, MARCA OTTIS, MODELO GEN2"
+            },
+            "5.03":{
+            "unidad": "HOSPITAL REGIONAL TEXCOCO", 
+            "equipo": "ELEVADOR 3 DE PACIENTES, CAPACIDAD DE 8 PERSONAS"
+            },
+            "6.01":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE CHALCO SOLIDARIDAD", 
+            "equipo": "ELEVADOR PARA 14 PERSONAS 1050 KG, MARCA MITSUBISHI ELECTRIC."
+            },
+            "7.01":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE BRAVO  \"NICOLÁS BRAVO BICENTENARIO\"", 
+            "equipo": "ELEVADOR PARA PASAJEROS, MARCA KONE, MOD MONOSPACE, SERIE 5778"
+            },
+            "8.01":{
+            "unidad": "HOSPITAL REGIONAL TEJUPILCO", 
+            "equipo": "ELEVADOR PARA CAMILLEROS, MARCA OTIS,  MOD. U6435 SERIE 871293618"
+            },
+            "8.02":{
+            "unidad": "HOSPITAL REGIONAL TEJUPILCO", 
+            "equipo": "ELEVADOR DE SERVICIO, MARCA OTIS, MOD. U6436, SERIE 638524781"
+            },
+            "9.01":{
+            "unidad": "UNIDAD DE ATENCIÓN AL DERECHOHABIENTE NEZAHUALCÓYOTL", 
+            "equipo": "ELEVADOR EQ.3800 2004, CAPACIDAD 10 PERSONAS 800 KG, MARCA: KONE, MODELO: ECODISC"
+            },
+            "10.01":{
+            "unidad": "DEPARTAMENTO DE SERVICIOS (EDIFICIO CENTRAL)", 
+            "equipo": "ELEVADOR PARA PERSONAL, 10 PERSONAS/700KG MCA. MITSUBISHI SERIE NL-58369814 (ELEVADOR 1)"
+            },
+            "10.02":{
+            "unidad": "DEPARTAMENTO DE SERVICIOS (EDIFICIO CENTRAL)", 
+            "equipo": "ELEVADOR PARA PERSONAL, 10 PERSONAS/700KG MCA. MITSUBISHI SERIE NL-58369814 (ELEVADOR 2)"
+            },
+            "10.03":{
+            "unidad": "DEPARTAMENTO DE SERVICIOS (EDIFICIO CENTRAL)", 
+            "equipo": "PLATAFORMA PARA MINUSVÁLIDOS MITSUBISHI  SERIE UX-871296578"
+            },
+            "11.01":{
+            "unidad": "DEPARTAMENTO DE CONTROL Y ACTUALIZACION DOCUMENTAL", 
+            "equipo": "ELEVADOR DE SILLA DE RUEDAS "
+            },
+            "12.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA DE TULTITLAN ", 
+            "equipo": "ELEVADOR MARCA KONE CAPACIDAD DE 8 PERSONAS"
+            },
+            "13.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA DE ATIZAPAN DE ZARAGOZA", 
+            "equipo": "ELEVADOR PARA 8 PERSONAS"
+            },
+            "15.01":{
+            "unidad": "CLINICA DE REHABILITACION FISICA INTEGRAL", 
+            "equipo": "ELEVADOR 1, CAP 10 S/N TERAPIA FISICA SIN INVENTARIO"
+            },
+            "15.02":{
+            "unidad": "CLINICA DE REHABILITACION FISICA INTEGRAL", 
+            "equipo": "ELEVADOR 2, CAP 6. S/N TERAPIA FISICA SIN INVENTARIO"
+            }
+          }
+        },
+        "7":{
+          "folios":{
+            "1.01":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "REFRIGERADORES SIN MARCA, SIN MODELO (EQUIPO 1) "
+            },
+            "1.02":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "REFRIGERADORES SIN MARCA, SIN MODELO (EQUIPO 2) "
+            },
+            "1.03":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "REFRIGERADORES SIN MARCA, SIN MODELO (EQUIPO 3) "
+            },
+            "1.04":{
+            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS", 
+            "equipo": "REFRIGERADORES SIN MARCA, SIN MODELO (EQUIPO 4) "
+            },
+            "2.01":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA TOREY, SERIE DOS300066, UBICADO EN QUÍMICA CLÍNICA "
+            },
+            "2.02":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA VENDO, SERIE 3190412002277, UBICADO EN QUÍMICA CLÍNICA "
+            },
+            "2.03":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA TOREY, SERIE C13002059, UBICADO EN QUÍMICA CLÍNICA "
+            },
+            "2.04":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA AMERICAN, SERIE 079901808AHA45, UBICADO EN QUÍMICA CLÍNICA "
+            },
+            "2.05":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA VENDO, SERIE 56017, UBICADO EN BACTERIOLOGÍA "
+            },
+            "2.06":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA CRIOTEC, SERIE 953713, UBICADO EN BACTERIOLOGÍA "
+            },
+            "2.07":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA VENDO, SERIE 0536215-2005, UBICADO EN COPROS "
+            },
+            "2.08":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA VENDO, SERIE 3190410207, UBICADO EN BANCO DE SANGRE "
+            },
+            "2.09":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA TOREY, SERIE 0999045, UBICADO EN BANCO DE SANGRE "
+            },
+            "2.10":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA CRIOTEC, SERIE 4701102157, UBICADO EN UCIN "
+            },
+            "2.11":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA VENDO, SERIE 31905010036, UBICADO EN UCI "
+            },
+            "2.12":{
+            "unidad": "CENTRO MÉDICO ISSEMYM ECATEPEC ", 
+            "equipo": "REFRIGERADOR MARCA VENDO, SERIE 319050100039, UBICADO EN MEDICINA INTERNA "
+            },
+            "3.01":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE CHALCO SOLIDARIDAD ", 
+            "equipo": "REFRIGERADOR, MARCA MABE, MODELO RM1063, SERIE IE-377802749 "
+            },
+            "3.02":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE CHALCO SOLIDARIDAD ", 
+            "equipo": "REFRIGERADOR 4 PUERTAS, MARCA OJEDA, MODELO RV-4P33, SERIE 00680-30226-D, UBICADO EN LABORATORIO "
+            },
+            "3.03":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE CHALCO SOLIDARIDAD ", 
+            "equipo": "REFRIGERADOR 4 PUERTAS, MARCA NIETO Y CIA, S.A. DE C.V., MODELO RP35, SERIE 4011410, UBICADO EN LABORATORIO "
+            },
+            "3.04":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE CHALCO SOLIDARIDAD ", 
+            "equipo": "REFRIGERADOR DE RPBI, MARCA PHILLIPS, MODELO ARR09, SERIE 6390317 "
+            },
+            "4.01":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE BRAVO \"NICOLÁS BRAVO BICENTENARIO\" ", 
+            "equipo": "REFRIGERADOR 7 PIES, UNA PUERTA, MARCA WHIRLPOOL, MOD. WRPO50XLDXLD, No DE SERIE XRP05XDDRECLD501 "
+            },
+            "4.02":{
+            "unidad": "HOSPITAL REGIONAL VALLE DE BRAVO \"NICOLÁS BRAVO BICENTENARIO\" ", 
+            "equipo": "REFRIGERADOR 5 PIES, UNA PUERTA, MCA ACROOS, MOD. ARP807XLGR02, No DE SERIE VRW27032607 "
+            },
+            "5.01":{
+            "unidad": "HOSPITAL REGIONAL  TEJUPILCO. ", 
+            "equipo": "REFRIGERADOR MCA METAL FRIO, MOD. 1816710, No DE SERIE RB360B1OCM "
+            },
+            "5.02":{
+            "unidad": "HOSPITAL REGIONAL  TEJUPILCO. ", 
+            "equipo": "CONGELADOR SIN MARCA, SIN MODELO (EQUIPO 1). "
+            },
+            "5.03":{
+            "unidad": "HOSPITAL REGIONAL  TEJUPILCO. ", 
+            "equipo": "CONGELADOR DE CUERPOS REFRIMED MOD: GCAF-2  CAP 2"
+            },
+            "6.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VÉLEZ\" ", 
+            "equipo": "REFRIGERADOR MCA METAL FRIO, MOD REB 360, No DE SERIE 1822368, No DE INV 60547 "
+            },
+            "6.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VÉLEZ\" ", 
+            "equipo": "REFRIGERADOR MCA NIETO,  MODELO REB300, No DE SERIE  6FC091, No DE INV 31778-87 "
+            },
+            "6.03":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VÉLEZ\" ", 
+            "equipo": "REFRIGERADOR MCA NIETO,  MODELO REB300, No DE SERIE GFC1462, No DE INV 31777-87 "
+            },
+            "6.04":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VÉLEZ\" ", 
+            "equipo": "REFRIGERADOR MCA TORREY,  MODELO R-28A-4C, No DE SERIE J97-2143, No DE INV 4763698 "
+            },
+            "6.05":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VÉLEZ\" ", 
+            "equipo": "REFRIGERADOR MCA NIETO,  MODELO REB300,No DE SERIE GF1660, No DE INV 31780 "
+            },
+            "6.06":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VÉLEZ\" ", 
+            "equipo": "REFRIGERADOR MCA METAL FRIO,  MODELO REB-360, No DE SERIE 1824129, No DE INV 60526 "
+            },
+            "6.07":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA \"ALFREDO DEL MAZO VÉLEZ\" ", 
+            "equipo": "REFRIGERADOR MCA MABE, MODELO RM-44, No DE INV 53432 "
+            },
+            "7.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA DE  LERMA \"IGNACIO ALLENDE BICENTENARIO\"", 
+            "equipo": "REFRIGERADOR CONGELADOR MCA MABE, MOD. MA41WIMRMV41WIM, No DE SERIE 238C1515G118 "
+            },
+            "8.01":{
+            "unidad": "ESTANCIA INFANTIL \"MARGARITA  MAZA DE JUÁREZ\" ", 
+            "equipo": "REFRIGERADOR  MCA SUPERMATIC ,No DE INV 5-9394. "
+            },
+            "8.02":{
+            "unidad": "ESTANCIA INFANTIL \"MARGARITA  MAZA DE JUÁREZ\" ", 
+            "equipo": "REFRIGERADOR  MCA  GENERAL ELECTRIC, NO DE SERIE C26548, No DE INV 5-9184. "
+            },
+            "8.03":{
+            "unidad": "ESTANCIA INFANTIL \"MARGARITA  MAZA DE JUÁREZ\" ", 
+            "equipo": "REFRIGERADOR INDUSTRIAL MCA SOBRINO "
+            },
+            "9.01":{
+            "unidad": "CENTRO DE PENSIONADOS  EVA SÁMANO DE LÓPEZ MATEOS", 
+            "equipo": "REFRIGERADOR MCA TOR REY,  MODELO R36 NO. DE SERIE EO03-01105 NO. DE INVENTARIO 575204 "
+            },
+            "9.02":{
+            "unidad": "CENTRO DE PENSIONADOS  EVA SÁMANO DE LÓPEZ MATEOS", 
+            "equipo": "REFRIGERADOR MCA MABE, MOD RM-1063, No DE INV  47458 "
+            },
+            "10.01":{
+            "unidad": "SUBDIRECCIÓN DE LOGÍSTICA Y CONTROL PATRIMONIAL ", 
+            "equipo": "CAMARA FRIGORIFICA 1  MCA SELMEC MOD SC4B13-9-1 NO. SERIE AO-129898CMA890 INCLUYE TODOS SUS COMPONENTES"
+            },
+            "10.02":{
+            "unidad": "SUBDIRECCIÓN DE LOGÍSTICA Y CONTROL PATRIMONIAL ", 
+            "equipo": "CAMARA FRIGORIFICA2 CON TABLERO DE CONTROL PRINCIPAL Y CONTROLADOR AUTOMATICO PARA CONECXION A INTERNET CON EQUIPO PRINCIPAL Y DE RESPALDO."
+            },
+            "10.03":{
+            "unidad": "SUBDIRECCIÓN DE LOGÍSTICA Y CONTROL PATRIMONIAL ", 
+            "equipo": "PRECAMARA1"
+            },
+            "11.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA TENANGO DEL VALLE ", 
+            "equipo": "REFRIGERADOR PARA MEDICAMENTOS MCA REFRIMED, MOD. RVCCDV7, No DE SERIE 0113261-03-006004A, No DE INV 1131579 "
+            },
+            "11.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA TENANGO DEL VALLE ", 
+            "equipo": "REFRIGERADOR PARA CONSERVACIÓN DE BOTELLAS REFRIGERANTES MCA IEM,  MODELO ISLM, No DE SERIE 03042A04462, No DE INV 51019 "
+            },
+            "11.03":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA TENANGO DEL VALLE ", 
+            "equipo": "REFRIGERADOR PARA VACUNAS, MCA METAL FRIO, MODELO REB-360, No DE SERIE 1824169, No DE INV 60536 "
+            },
+            "12.01":{
+            "unidad": "CENTRO VACACIONAL VALLE DE BRAVO ", 
+            "equipo": "CONGELADOR VERTICAL MCA TOR REY,  MODELO R-36, No DE SERIE E03-011, No DE INV 55164  "
+            },
+            "12.02":{
+            "unidad": "CENTRO VACACIONAL VALLE DE BRAVO ", 
+            "equipo": "REFRIGERADOR VERTICAL MARCA METAL FRIO, INDUSTRIAL USO CONTINUO."
+            },
+            "12.03":{
+            "unidad": "CENTRO VACACIONAL VALLE DE BRAVO ", 
+            "equipo": "REFRIGERADOR VERTICAL MARCA TOR REY, INDUSTRIAL USO CONTINUO. DOBLE PUERTA"
+            },
+            "13.01":{
+            "unidad": "HOSPITAL MATERNO INFANTIL ", 
+            "equipo": "CAMARA FRIGORIFICA 1(LACTEOS) S/N S/N S/N ALMACEN DE ABASTO COCINA 42530"
+            },
+            "13.02":{
+            "unidad": "HOSPITAL MATERNO INFANTIL ", 
+            "equipo": "UNIDAD CONDENSADORA (CAMARA FRIGORIFICA 1) BOHN MBZX0300M6C M21H03256 CUARTO DE MAQUINAS ALMACEN DE COCINA SIN INVENTARIO"
+            },
+            "13.03":{
+            "unidad": "HOSPITAL MATERNO INFANTIL ", 
+            "equipo": "CAMARA FRIGORIFICA 2 (FRUTAS Y VERDURAS) NIETO S/N GAC-0928 ALMACEN DE ABASTO COCINA 42934"
+            },
+            "13.04":{
+            "unidad": "HOSPITAL MATERNO INFANTIL ", 
+            "equipo": "CAMARA FRIGORIFICA 2 (FRUTAS Y VERDURAS) NIETO S/N GAC-0928 ALMACEN DE ABASTO COCINA 42934"
+            },
+            "13.05":{
+            "unidad": "HOSPITAL MATERNO INFANTIL ", 
+            "equipo": "UNIDAD CONDENSADORA (CAMARA FRIGORIFICA 2) BOHN ALMACEN DE ABASTO COCINA S/N"
+            },
+            "13.06":{
+            "unidad": "HOSPITAL MATERNO INFANTIL ", 
+            "equipo": "EVAPORADOR (CAMARA FRIGORIFICA 2) BOHN MBZX000M6CM23K03147 CUARTO DE MAQUINAS ALMACEN DE COCINA SIN INVENTARIO"
+            },
+            "14.01":{
+            "unidad": "HOSPITAL REGIONAL NEZAHUALCÓYOTL ", 
+            "equipo": "REFRIGERADOR PARA CADÁVERES FRONTAL DE LAMINA DE ACERO, MARCA MASTER KONG, MODELO FF3AHA075, SERIE 07599G341 "
+            },
+            "15.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA CHIMALHUACÁN ", 
+            "equipo": "REFRIGERADOR PARA VACUNAS, MARCA METALFRIO/SOLUTIONS, LÍNEA 3, MODELO LÍNEA HOSPITALARIA "
+            },
+            "16.01":{
+            "unidad": "CLÍNICA REGIONAL CUAUTITLÁN IZCALLI ", 
+            "equipo": "REFRIGERADOR PARA VACUNAS, MARCA METALFRIO, MODELO RB220BIOCM, SERIE 1090150112031822369860006, UBICADO EN MEDICINA PREVENTIVA "
+            },
+            "16.02":{
+            "unidad": "CLÍNICA REGIONAL CUAUTITLÁN IZCALLI ", 
+            "equipo": "REFRIGERADOR PARA VACUNAS, MARCA METALFRIO, MODELO RB360BI0CM, SERIE 109030025207182415760009, UBICADO EN MEDICINA PREVENTIVA "
+            },
+            "16.03":{
+            "unidad": "CLÍNICA REGIONAL CUAUTITLÁN IZCALLI ", 
+            "equipo": "REFRIGERADOR FRIGOBAR, MARCA SUPERMATIC, MODELO SRL-05VA, SERIE VRL0201266, UBICADO EN HOSPITALIZACIÓN "
+            },
+            "16.04":{
+            "unidad": "CLÍNICA REGIONAL CUAUTITLÁN IZCALLI ", 
+            "equipo": "REFRIGERADOR, MARCA BLU POINT, MODELO BRMO7N, SERIE VRH4055796, UBICADO EN LACTARIO "
+            },
+            "16.05":{
+            "unidad": "CLÍNICA REGIONAL CUAUTITLÁN IZCALLI ", 
+            "equipo": "REFRIGERADOR, MARCA KELVINATOR, MODELO 5G13UL, UBICADO EN FARMACIA "
+            },
+            "16.06":{
+            "unidad": "CLÍNICA REGIONAL CUAUTITLÁN IZCALLI ", 
+            "equipo": "REFRIGERADOR, MARCA MABE, UBICADO EN COCINA "
+            },
+            "16.07":{
+            "unidad": "CLÍNICA REGIONAL CUAUTITLÁN IZCALLI ", 
+            "equipo": "REFRIGERADOR, MARCA ACROS, MODELO ARM10NP, UBICADO EN COCINA "
+            },
+            "17.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA OZUMBA ", 
+            "equipo": "REFRIGERADOR DE 17.6 PIES CÚBICOS, MARCA: REFRIMED, MODELO: RVACDV-17, SERIE: 0915-585-01-001-001, INVENTARIO 1629, UBICADO EN FARMACIA "
+            },
+            "18.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA NAUCALPAN ", 
+            "equipo": "REFRIGERADOR, MARCA TORREY, MODELO R30, SERIE J0302580, INVENTARIO 54191, UBICADO EN FARMACIA "
+            },
+            "18.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA NAUCALPAN ", 
+            "equipo": "REFRIGERADOR, MARCA TORREY, MODELO R30, SERIE J0302647, INVENTARIO 54190, UBICADO EN LABORATORIO "
+            },
+            "18.03":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA NAUCALPAN ", 
+            "equipo": "REFRIGERADOR, MARCA MABE, MODELO 1G11WBM, SERIE 9710ER02138, INVENTARIO 47616, UBICADO EN LABORATORIO "
+            },
+            "19.01":{
+            "unidad": "CLÍNICA REGIONAL AMECAMECA ", 
+            "equipo": "REFRIGERADOR, MARCA METALFRIO, MODELO REB-260, SERIE 1821740,  UBICADO EN MEDICINA PREVENTIVA "
+            },
+            "19.02":{
+            "unidad": "CLÍNICA REGIONAL AMECAMECA ", 
+            "equipo": "REFRIGERADOR, MARCA MABE, MODELO RM87WB01 RM87WL01,  UBICADO EN FARMACIA "
+            },
+            "20.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA NICOLÁS ROMERO ", 
+            "equipo": "REFRIGERADOR PARA MEDICAMENTOS, MARCA REFRIMED, MODELO RVCCDV-7, SERIE 0113-261-03-006-003ª, INVENTARIO 131578, UBICADO EN FARMACIA "
+            },
+            "20.02":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA NICOLÁS ROMERO ", 
+            "equipo": "REFRIGERADOR, MARCA REFRIMED, MODELO RVCSCV-7, SERIE 0113-261-03-005-002, INVENTARIO 131571, UBICADO EN MEDICINA PREVENTIVA "
+            },
+            "20.03":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA NICOLÁS ROMERO ", 
+            "equipo": "REFRIGERADOR, MARCA METALFRIO, MODELO RB360BIOCM, SERIE 109030025207182416660001, UBICADO EN CONSULTORIO 3 "
+            },
+            "21.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ATIZAPAN DE ZARAGOZA", 
+            "equipo": "REFRIGERADORA MCA. METAL FRIO MOD. RB360B10CM NO. DE SERIE 109030025207182439460004"
+            },
+            "21.02":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ATIZAPAN DE ZARAGOZA", 
+            "equipo": "REFRIGERADOR REFRIMED MOD RVACDV-10"
+            },
+            "21.03":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ATIZAPAN DE ZARAGOZA", 
+            "equipo": "REFRIGERADOR VESTFROST MOD AKG 377 SERIE 20173734199"
+            },
+            "21.04":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ATIZAPAN DE ZARAGOZA", 
+            "equipo": "REFRIGERADOR VESTFROST MOD AKG 377 SERIE 20173937959"
+            },
+            "21.05":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA ATIZAPAN DE ZARAGOZA", 
+            "equipo": "REFRIGERADOR METAL FRIO S/N MODELO CAP 17.6 PIES"
+            },
+            "22.01":{
+            "unidad": "CLÍNICA DE CONSULTA EXTERNA TULTITLAN ", 
+            "equipo": "REFRIGERADOR MARCA: ACROS, MODELO: ART09NGC, SERIE VSL4381636, UBICADO EN FARMACIA "
+            },
+            "23.01":{
+            "unidad": "ESTANCIA INFANTIL \"ROSA MARIA SANCHEZ MENDOZA\" ", 
+            "equipo": "REFRIGERDOR VERTICAL  "
+            },
+            "23.02":{
+            "unidad": "ESTANCIA INFANTIL \"ROSA MARIA SANCHEZ MENDOZA\" ", 
+            "equipo": "REFRIGERADOR VERTICAL  "
+            },
+            "23.03":{
+            "unidad": "ESTANCIA INFANTIL \"ROSA MARIA SANCHEZ MENDOZA\" ", 
+            "equipo": "CAMARA DE CONSERVACIÓN "
+            },
+            "24.01":{
+            "unidad": "CENTRO VACACIONAL TONATICO    ", 
+            "equipo": "CAMARA DE REFRIGERACIÓN MCA. HEATCRAFT, MODELO:ADT104BKS, SERIE:MO9B38639"
+            },
+            "24.02":{
+            "unidad": "CENTRO VACACIONAL TONATICO    ", 
+            "equipo": "CAMARA DE CONGERLACIÓN MCA. HEATCRAFT, MODELO:LET090BKS, SERIE:MO9B38379"
+            },
+            "25.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA COACALCO", 
+            "equipo": "REFRIGERADOR MARCA METAL FRIO, MODELO RB220BIOCN, SERIE 1816073, UBICADO EN FARMACIA "
+            },
+            "25.02":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA COACALCO", 
+            "equipo": "REFRIGERADOR MARCA REFRIMED, MODELO RBCDD-10, SERIE 0218-04501-016-011, UBICADO EN FARMACIA "
+            },
+            "25.03":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA COACALCO", 
+            "equipo": "REFRIGERADOR MARCA METALFRIO MODELO RB360B10CM, SERIE 1821708, UBICADO EN MEDICINA PREVENTIVA "
+            },
+            "25.04":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA COACALCO", 
+            "equipo": "REFRIGERADOR MARCA REFRIMED, MODELO RBASCV-10, SERIE 1209-016-03-001-001, UBICADO EN LABORATORIO "
+            },
+            "26.01":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA JIQUIPILCO ", 
+            "equipo": "REFRIGERADOR REFRIMED, MODELO RVCCDV-5, SERIE 0218-045-01-016-003, UBICADO EN FARMACIA "
+            },
+            "26.02":{
+            "unidad": "CLINICA DE CONSULTA EXTERNA JIQUIPILCO ", 
+            "equipo": "REFRIGERADIR REFRIMED, MODELO EPPDMG6000-3U-HW, SERIE ND432DF048, UBICADO EN FARMACIA "
+            },
+            "27.01":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "REFRIGERADOR MARCA ACROS, MODELO ART-12J, SERIE VSFO761776, INVENT.47320.  LABORATORIO"
+            },
+            "27.02":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": " REFRIGERADOR MARCA WHILPOOL, MODELO WRT12N, SERIE VSF3408009 INVENT.47321.  LABORATORIO"
+            },
+            "27.03":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "REFRIGERADOR MARCA THERMO FORMA, MODELO 3662-201138, SERIE: 49098100 SC INVENT. 50224. LABORATORIO"
+            },
+            "27.04":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "REFRIGERADOR MARCA KELVINATOR, MODELO 5G13ULM, SERIE 9910ER75016, NO. INVEN. 49990 LABORATORIO"
+            },
+            "27.05":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "REFRIGERADOR MARCA METAL FRIO, MODELO REB360, SERIE: 1821732, NO. INVENT.60510. VACUNAS"
+            },
+            "27.06":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "REFRIGERADOR MARCA KELVINATOR, MODELO 5G13ULM, SERIE: 9910ER75372, NO. INVEN.50008. ALMACEN FARMACIA"
+            },
+            "27.07":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "REFRIGERADOR MARCA REFRIMED,MODELO RVCCDV-7, SERIE: 0113-261-03-006-006A, INVENARIO 1131582 HOSPITALIZACION"
+            },
+            "27.08":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "REFRIGERADOR MARCA METAL FRIO, MODELO RB360 SERIE: 309B2005041 INVENTARIO 60541 MEDICINA PREVENTIVA"
+            },
+            "27.09":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "REFRIGERADOR MARCA TORREY  MODELO R-30-4, SERIE: D01-18841. NO. INVENT. 50003 ALMACEN FARMACIA"
+            },
+            "27.10":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "REFRIGERADOR MARCA REFRIMED MODELO RVACDV17, SERIE 0514-104-01-006-003A, S/INV.  FARMACIA"
+            },
+            "27.11":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "REFRIGERADOR MARCA SAMSUNG MODELO RT32YNPP SERIE: JK2R4GRRR52110D ALMACEN FARMACIA"
+            },
+            "27.12":{
+            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO", 
+            "equipo": "CONGELADOR MARCA FRIGIDAIRE, MODELO FFC0923DW8 SERIE: WB10840274 PATRIMONIO"
+            }
           }
         }
 
