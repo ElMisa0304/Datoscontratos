@@ -43,22 +43,22 @@
   "QUERETARO": {
     "folios": {
       "HENM-9": {
-        "DOMICILIO": "AVENIDA LUIS VEGA Y MONROY NÚMERO 1000, COLONIA COLINAS DEL CIMATARIO, C.P. 76090, QUERÉTARO, QRO.",
-        "EQUIPO": "REFRIGERADOR (BANCO DE SANGRE)",
-        "MARCA": "PANASONIC",
-        "MODELO": "MDFV5312-PA",
-        "SERIE": "13110457",
-        "UBICACION": "BANCO DE SANGRE EDIF. \"D\" ",
-        "UNIDAD": "HOSPITAL DE ESPECIALIDADES DEL NIÑO Y LA MUJER"
+        "domicilio": "AVENIDA LUIS VEGA Y MONROY NÚMERO 1000, COLONIA COLINAS DEL CIMATARIO, C.P. 76090, QUERÉTARO, QRO.",
+        "equipo": "REFRIGERADOR (BANCO DE SANGRE)",
+        "marca": "PANASONIC",
+        "modelo": "MDFV5312-PA",
+        "serie": "13110457",
+        "ubicacion": "BANCO DE SANGRE EDIF. \"D\" ",
+        "unidad": "HOSPITAL DE ESPECIALIDADES DEL NIÑO Y LA MUJER"
       },
       "HGC-4": {
-        "DOMICILIO": "CARRETERA SAN JUAN DEL RÍO – XILITLA SIN NÚMERO, COLONIA CENTRO, C.P. 76500, CADEREYTA DE MONTES, QUERÉTARO.",
-        "EQUIPO": "UC 1",
-        "MARCA": "CARRIER",
-        "MODELO": "38AKS014-521",
-        "SERIE": "2008G20081",
-        "UBICACION": "DIRECCION",
-        "UNIDAD": "HOSPITAL GENERAL CADEREYTA"
+        "domicilio": "CARRETERA SAN JUAN DEL RÍO – XILITLA SIN NÚMERO, COLONIA CENTRO, C.P. 76500, CADEREYTA DE MONTES, QUERÉTARO.",
+        "equipo": "UC 1",
+        "marca": "CARRIER",
+        "modelo": "38AKS014-521",
+        "serie": "2008G20081",
+        "ubicacion": "DIRECCION",
+        "unidad": "HOSPITAL GENERAL CADEREYTA"
       }
     }
   }
