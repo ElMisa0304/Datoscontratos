@@ -1,65 +1,69 @@
 {
-  "ISEM": {
-    "folios": {
-      "1": {
-        "equipo": "REFRIGERADOR",
-        "inventario": "2E 12303 2141 2017",
-        "marca": "WHIRPOOL",
-        "modelo": "WS5501Q",
-        "serie": "VR33301818",
-        "unidad": "COORDINACION MUNICIPAL TEMASCALCINGO"
-      },
-      "2": {
-        "equipo": "REFRIGERADOR",
-        "inventario": "2E 13463 2141 2020",
-        "marca": "REFRIMED",
-        "modelo": "RVASDV-14",
-        "serie": "0919-239-01-209-199",
-        "unidad": "COORDINACION MUNICIPAL TEMASCALCINGO"
-      }
-    }
-  },
-  "ISEMYM": {
-    "renglon": {
-      "1": {
-        "folios": {
-          "1.01": {
-            "equipo": "VE-1 TIPO HONGO, MCA. LOREN COOK, MOD. 195ACEB, CAP. 4800 CFM",
-            "unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS"
-          }
-        }
-      },
-      "2": {
-        "folios": {
-          "27.04": {
-            "equipo": "REFRIGERADOR MARCA KELVINATOR, MODELO 5G13ULM, SERIE 9910ER75016, NO. INVEN. 49990 LABORATORIO",
-            "unidad": "HOSPITAL REGIONAL DE ATLACOMULCO"
-          }
-        }
-      }
-    }
-  },
-  "NUEVO": {},
-  "QUERETARO": {
-    "folios": {
-      "HENM-9": {
-        "domicilio": "AVENIDA LUIS VEGA Y MONROY NÚMERO 1000, COLONIA COLINAS DEL CIMATARIO, C.P. 76090, QUERÉTARO, QRO.",
-        "equipo": "REFRIGERADOR (BANCO DE SANGRE)",
-        "marca": "PANASONIC",
-        "modelo": "MDFV5312-PA",
-        "serie": "13110457",
-        "ubicacion": "BANCO DE SANGRE EDIF. \"D\" ",
-        "unidad": "HOSPITAL DE ESPECIALIDADES DEL NIÑO Y LA MUJER"
-      },
-      "HGC-4": {
-        "domicilio": "CARRETERA SAN JUAN DEL RÍO – XILITLA SIN NÚMERO, COLONIA CENTRO, C.P. 76500, CADEREYTA DE MONTES, QUERÉTARO.",
-        "equipo": "UC 1",
-        "marca": "CARRIER",
-        "modelo": "38AKS014-521",
-        "serie": "2008G20081",
-        "ubicacion": "DIRECCION",
-        "unidad": "HOSPITAL GENERAL CADEREYTA"
-      }
-    }
-  }
+	"ISEM": {
+		"folios": {
+			"1": {
+				"equipo": "REFRIGERADOR",
+				"inventario": "2E 12303 2141 2017",
+				"marca": "WHIRPOOL",
+				"modelo": "WS5501Q",
+				"serie": "VR33301818",
+				"unidad": "COORDINACION MUNICIPAL TEMASCALCINGO"
+			},
+			"2": {
+				"equipo": "REFRIGERADOR",
+				"inventario": "2E 13463 2141 2020",
+				"marca": "REFRIMED",
+				"modelo": "RVASDV-14",
+				"serie": "0919-239-01-209-199",
+				"unidad": "COORDINACION MUNICIPAL TEMASCALCINGO"
+			}
+		}
+	},
+	"ISSEMYM": {
+		"renglon": {
+			"1": {
+				"folios": {
+					"1.01": {
+						"equipo": "VE-1 TIPO HONGO, MCA. LOREN COOK, MOD. 195ACEB, CAP. 4800 CFM",
+						"unidad": "CENTRO MÉDICO ISSEMYM TOLUCA LIC. ARTURO MONTIEL ROJAS"
+					}
+				}
+			},
+			"2": {
+				"folios": {
+					"27.04": {
+						"equipo": "REFRIGERADOR MARCA KELVINATOR, MODELO 5G13ULM, SERIE 9910ER75016, NO. INVEN. 49990 LABORATORIO",
+						"unidad": "HOSPITAL REGIONAL DE ATLACOMULCO"
+					}
+				}
+			}
+		}
+	},
+	"NUEVO": {},
+	"QUERETARO": {
+		"renglon": {
+			"HOSPITAL DE ESPECIALIDADES DEL NIÑO Y LA MUJER": {
+				"9": {
+					"DOMICILIO": "AVENIDA LUIS VEGA Y MONROY NÚMERO 1000, COLONIA COLINAS DEL CIMATARIO, C.P. 76090, QUERÉTARO, QRO.",
+					"EQUIPO": "REFRIGERADOR (BANCO DE SANGRE)",
+					"MARCA": "PANASONIC",
+					"MODELO": "MDFV5312-PA",
+					"SERIE": "13110457",
+					"UBICACION": "BANCO DE SANGRE EDIF. \"D\" ",
+					"UNIDAD": "HOSPITAL DE ESPECIALIDADES DEL NIÑO Y LA MUJER"
+				}
+			}
+		},
+		"HOSPITAL GENERAL DE CADEREYTA": {
+			"4": {
+				"DOMICILIO": "CARRETERA SAN JUAN DEL RÍO – XILITLA SIN NÚMERO, COLONIA CENTRO, C.P. 76500, CADEREYTA DE MONTES, QUERÉTARO.",
+				"EQUIPO": "UC 1",
+				"MARCA": "CARRIER",
+				"MODELO": "38AKS014-521",
+				"SERIE": "2008G20081",
+				"UBICACION": "DIRECCION",
+				"UNIDAD": "HOSPITAL GENERAL CADEREYTA"
+			}
+		}
+	}
 }
