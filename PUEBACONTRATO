@@ -1,4 +1,24 @@
 {
+  "CHIAPAS": {
+    "folios": {
+      "1": {
+        "equipo": "REFRIGERADOR",
+        "inventario": "2E 12303 2141 2017",
+        "marca": "WHIRPOOL",
+        "modelo": "WS5501Q",
+        "serie": "VR33301818",
+        "unidad": "COORDINACION MUNICIPAL TEMASCALCINGO"
+      },
+      "2": {
+        "equipo": "REFRIGERADOR",
+        "inventario": "2E 13463 2141 2020",
+        "marca": "REFRIMED",
+        "modelo": "RVASDV-14",
+        "serie": "0919-239-01-209-199",
+        "unidad": "COORDINACION MUNICIPAL TEMASCALCINGO"
+      }
+    }
+  },
   "ISEM": {
     "folios": {
       "1": {
